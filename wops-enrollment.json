@@ -1,0 +1,19 @@
+{
+  "vintage": "2025-26 (reported spring 2026)",
+  "source": "West Orange, NJ Patch: \"Here's How Many Students Attend Each West Orange School\" (Eric Kiefer, published April 10, 2026), reporting figures released by West Orange Public Schools administrators at a March 26, 2026 Board of Education budget presentation.",
+  "note": "This is a single current snapshot, not a year-by-year series. It does not exactly match the 2024-25 academic year that is the most recent year in wops-performance.json; treat any comparison across the two as approximate by about one school year, not an exact match. Full historical enrollment by school (2015-16 through 2024-25) is not yet included; NJDOE publishes this only as one downloadable Excel file per year (nj.gov/education/doedata/enr), not as an easily automatable per-school-per-year lookup.",
+  "retrieved": "2026-09-16",
+  "enrollment": {
+    "050": 2053,
+    "070": 392,
+    "090": 551,
+    "120": 457,
+    "130": 329,
+    "135": 549,
+    "140": 367,
+    "150": 460,
+    "160": 444,
+    "170": 462,
+    "180": 399
+  }
+}
