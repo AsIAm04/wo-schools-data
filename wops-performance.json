@@ -1,0 +1,5853 @@
+{
+  "schools": {
+    "050": "West Orange High School",
+    "070": "Edison Middle School",
+    "090": "Roosevelt Middle School",
+    "120": "Gregory Elementary School",
+    "130": "Hazel Avenue Elementary School",
+    "135": "Liberty Middle School",
+    "140": "Mount Pleasant Elementary School",
+    "150": "Kelly Elementary School",
+    "160": "Redwood Elementary School",
+    "170": "St. Cloud Elementary School",
+    "180": "Washington Elementary School"
+  },
+  "years": [
+    "2015_16",
+    "2016_17",
+    "2017_18",
+    "2018_19",
+    "2019_20",
+    "2020_21",
+    "2021_22",
+    "2022_23",
+    "2023_24",
+    "2024_25"
+  ],
+  "data": {
+    "050": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 45.0,
+            "White": 53.0,
+            "Black": 44.0,
+            "Hispanic": 38.0,
+            "Asian": 61.0,
+            "Students with Disabilities": 14.0,
+            "Economically Disadvantaged": 33.0
+          },
+          "math_prof": {
+            "Schoolwide": 26.0,
+            "White": 36.0,
+            "Black": 19.0,
+            "Hispanic": 23.0,
+            "Asian": 52.0,
+            "Students with Disabilities": 7.0,
+            "Economically Disadvantaged": 18.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 12.5
+          },
+          "grad_rate": {
+            "Schoolwide": 84.9,
+            "White": 88.6,
+            "Black": 85.6,
+            "Hispanic": 76.9,
+            "Asian": 97.1,
+            "Students with Disabilities": 73.1,
+            "Economically Disadvantaged": 79.3
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 17.0,
+          "econ_disadvantaged_pct": 46.0,
+          "ell_pct": 4.0,
+          "white_pct": 19.3,
+          "hispanic_pct": 26.6,
+          "black_pct": 47.0,
+          "asian_pct": 6.0,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 1.0
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 79.0,
+            "Black": 47.9,
+            "Economically Disadvantaged": 38.8,
+            "English Learners": 16.3,
+            "Female": 60.3,
+            "Hispanic": 42.6,
+            "Male": 42.0,
+            "Non-Economically Disadvantaged": 60.5,
+            "Non-English Learners (general ed)": 53.2,
+            "Schoolwide": 50.8,
+            "Students with Disabilities": 15.7,
+            "Students without Disabilities (general ed)": 59.2,
+            "Two or More Races": 69.3,
+            "White": 57.0
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 65.5,
+            "Black": 19.7,
+            "Economically Disadvantaged": 15.5,
+            "Female": 30.4,
+            "Hispanic": 21.1,
+            "Male": 24.5,
+            "Non-Economically Disadvantaged": 37.1,
+            "Schoolwide": 27.3,
+            "Two or More Races": 50.0,
+            "White": 37.4
+          },
+          "oss_pct": {
+            "Schoolwide": 6.7
+          },
+          "grad_rate": {
+            "Economically Disadvantaged": 86.5,
+            "English Learners": 73.1,
+            "Native Hawaiian/Pacific Islander": 100.0,
+            "Schoolwide": 86.7,
+            "Students with Disabilities": 69.8,
+            "White": 92.7
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 18.3,
+          "econ_disadvantaged_pct": 46.2,
+          "ell_pct": 3.6,
+          "native_american_pct": 0.1,
+          "asian_pct": 5.9,
+          "black_pct": 46.3,
+          "hispanic_pct": 27.8,
+          "pacific_islander_pct": 0.2,
+          "two_or_more_pct": 1.4,
+          "white_pct": 18.4,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 11.1
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 80.3,
+            "Black": 50.0,
+            "Economically Disadvantaged": 39.7,
+            "Non-Economically Disadvantaged": 62.2,
+            "Students without Disabilities (general ed)": 60.0,
+            "Students with Disabilities": 16.6,
+            "Two or More Races": 60.0,
+            "English Learners": 25.0,
+            "Female": 60.4,
+            "Hispanic": 38.2,
+            "Male": 44.5,
+            "Schoolwide": 52.3,
+            "Non-English Learners (general ed)": 53.4,
+            "White": 67.5
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 59.1,
+            "Black": 23.4,
+            "Economically Disadvantaged": 20.4,
+            "Non-Economically Disadvantaged": 37.2,
+            "Two or More Races": 22.2,
+            "Female": 32.5,
+            "English Learners": 10.8,
+            "Hispanic": 21.5,
+            "Male": 27.4,
+            "Non-English Learners (general ed)": 30.7,
+            "Schoolwide": 30.0,
+            "White": 47.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 14.9,
+            "White": 16.1,
+            "Hispanic": 18.3,
+            "Black": 12.8,
+            "Asian/Pacific Islander (combined)": 11.2,
+            "Economically Disadvantaged": 17.2,
+            "Students with Disabilities": 21.3,
+            "English Learners": 12.9
+          },
+          "oss_pct": {
+            "Schoolwide": 7.7
+          },
+          "grad_rate": {
+            "Schoolwide": 91.2,
+            "White": 94.8,
+            "Hispanic": 86.1,
+            "Black": 92.2,
+            "Asian/Pacific Islander (combined)": 96.4,
+            "Economically Disadvantaged": 90.7,
+            "Students with Disabilities": 78.8,
+            "English Learners": 66.7
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 44.1,
+          "disability_pct": 18.5,
+          "ell_pct": 3.4,
+          "white_pct": 19.0,
+          "hispanic_pct": 27.9,
+          "black_pct": 45.5,
+          "asian_pct": 5.9,
+          "pacific_islander_pct": 0.1,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 1.4,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 11.0
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "White": 67.1,
+            "Two or More Races": 35.7,
+            "Students without Disabilities (general ed)": 56.8,
+            "Students with Disabilities": 16.9,
+            "Schoolwide": 49.2,
+            "Non-English Learners (general ed)": 50.7,
+            "Non-Economically Disadvantaged": 59.1,
+            "Male": 42.8,
+            "Hispanic": 37.3,
+            "Female": 56.1,
+            "English Learners": 15.9,
+            "Economically Disadvantaged": 36.7,
+            "Black": 45.0,
+            "Asian/Pacific Islander (combined)": 80.3
+          },
+          "math_prof": {
+            "White": 36.8,
+            "Two or More Races": 17.9,
+            "Schoolwide": 21.1,
+            "Non-Economically Disadvantaged": 27.2,
+            "Male": 20.6,
+            "Hispanic": 12.3,
+            "Female": 21.8,
+            "Economically Disadvantaged": 13.6,
+            "Black": 15.4,
+            "Asian/Pacific Islander (combined)": 50.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 17.6,
+            "White": 18.3,
+            "Hispanic": 19.4,
+            "Black": 16.1,
+            "Asian/Pacific Islander (combined)": 8.5,
+            "Two or More Races": 38.8,
+            "Female": 17.7,
+            "Male": 17.4,
+            "Economically Disadvantaged": 18.3,
+            "Students with Disabilities": 30.7,
+            "English Learners": 19.1,
+            "Homeless Students": 50.0
+          },
+          "oss_pct": {
+            "Schoolwide": 8.5
+          },
+          "grad_rate": {
+            "Schoolwide": 90.3,
+            "White": 91.0,
+            "Hispanic": 89.8,
+            "Black": 89.2,
+            "Female": 93.2,
+            "Male": 87.5,
+            "Economically Disadvantaged": 88.3,
+            "Students with Disabilities": 78.4,
+            "English Learners": 79.3
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 41.0,
+          "disability_pct": 19.6,
+          "ell_pct": 3.3,
+          "white_pct": 19.0,
+          "hispanic_pct": 29.0,
+          "black_pct": 43.5,
+          "asian_pct": 5.8,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 2.3,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 11.7
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {
+          "oss_pct": {
+            "Schoolwide": 5.1
+          },
+          "grad_rate": {
+            "Schoolwide": 89.5,
+            "White": 88.5,
+            "Hispanic": 85.9,
+            "Black": 90.8,
+            "Asian/Pacific Islander (combined)": 100.0,
+            "Two or More Races": 90.9,
+            "Female": 92.8,
+            "Male": 86.4,
+            "Economically Disadvantaged": 88.9,
+            "Students with Disabilities": 73.8,
+            "English Learners": 63.2
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 40.5,
+          "disability_pct": 19.1,
+          "ell_pct": 3.2,
+          "white_pct": 19.0,
+          "hispanic_pct": 30.5,
+          "black_pct": 41.7,
+          "asian_pct": 5.3,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 3.2,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 11.7
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 5.8,
+            "White": 3.9,
+            "Hispanic": 7.0,
+            "Black": 6.4,
+            "Asian/Pacific Islander (combined)": 1.9,
+            "Two or More Races": 6.0,
+            "Female": 4.2,
+            "Male": 7.4,
+            "Economically Disadvantaged": 8.0,
+            "Students with Disabilities": 14.8,
+            "English Learners": 5.5
+          },
+          "grad_rate": {
+            "Schoolwide": 91.5,
+            "White": 93.9,
+            "Hispanic": 87.9,
+            "Black": 92.7,
+            "Asian/Pacific Islander (combined)": 93.8,
+            "Two or More Races": 80.0,
+            "Female": 93.8,
+            "Male": 89.4,
+            "Economically Disadvantaged": 91.6,
+            "Students with Disabilities": 77.5,
+            "English Learners": 78.6
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 43.1,
+          "disability_pct": 19.1,
+          "ell_pct": 2.6,
+          "white_pct": 19.2,
+          "hispanic_pct": 31.7,
+          "black_pct": 40.6,
+          "asian_pct": 4.5,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.1,
+          "two_or_more_pct": 3.7,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 12.1
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 45.2,
+            "White": 60.5,
+            "Hispanic": 36.4,
+            "Black": 39.4,
+            "Asian/Pacific Islander (combined)": 78.1,
+            "Two or More Races": 62.1,
+            "Female": 52.8,
+            "Male": 37.1,
+            "Economically Disadvantaged": 31.0,
+            "Non-Economically Disadvantaged": 52.0,
+            "Students without Disabilities (general ed)": 54.1,
+            "English Learners": 15.0,
+            "Non-English Learners (general ed)": 46.4
+          },
+          "math_prof": {
+            "Schoolwide": 21.4,
+            "White": 27.6,
+            "Hispanic": 17.2,
+            "Black": 16.9,
+            "Asian/Pacific Islander (combined)": 58.1,
+            "Two or More Races": 24.1,
+            "Female": 24.2,
+            "Male": 18.8,
+            "Economically Disadvantaged": 18.7,
+            "Non-Economically Disadvantaged": 22.7,
+            "Students without Disabilities (general ed)": 24.5,
+            "English Learners": 14.3,
+            "Non-English Learners (general ed)": 21.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 25.6,
+            "White": 22.3,
+            "Hispanic": 29.9,
+            "Black": 24.8,
+            "Asian/Pacific Islander (combined)": 12.0,
+            "Two or More Races": 27.4,
+            "Female": 27.4,
+            "Male": 23.9,
+            "Economically Disadvantaged": 30.4,
+            "Students with Disabilities": 34.7,
+            "English Learners": 21.6
+          },
+          "oss_pct": {
+            "Schoolwide": 7.8
+          },
+          "grad_rate": {
+            "Schoolwide": 88.2,
+            "White": 93.3,
+            "Hispanic": 86.6,
+            "Black": 87.5,
+            "Asian/Pacific Islander (combined)": 94.3,
+            "Two or More Races": 70.6,
+            "Female": 88.7,
+            "Male": 87.8,
+            "Economically Disadvantaged": 88.6,
+            "Students with Disabilities": 78.9,
+            "English Learners": 72.4
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 41.8,
+          "disability_pct": 19.4,
+          "ell_pct": 3.5,
+          "white_pct": 17.1,
+          "hispanic_pct": 33.8,
+          "black_pct": 39.1,
+          "asian_pct": 4.6,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.1,
+          "two_or_more_pct": 4.8,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 12.0
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 53.0,
+            "White": 78.5,
+            "Hispanic": 42.8,
+            "Black": 44.7,
+            "Asian/Pacific Islander (combined)": 84.2,
+            "Two or More Races": 67.9,
+            "Female": 56.5,
+            "Male": 49.8,
+            "Economically Disadvantaged": 37.9,
+            "Non-Economically Disadvantaged": 61.6,
+            "Students with Disabilities": 20.2,
+            "Students without Disabilities (general ed)": 60.6,
+            "English Learners": 22.9,
+            "Non-English Learners (general ed)": 55.3
+          },
+          "math_prof": {
+            "Schoolwide": 22.6,
+            "White": 50.0,
+            "Hispanic": 10.9,
+            "Black": 18.4,
+            "Asian/Pacific Islander (combined)": 42.1,
+            "Two or More Races": 33.3,
+            "Female": 18.2,
+            "Male": 26.7,
+            "Economically Disadvantaged": 10.3,
+            "Non-Economically Disadvantaged": 29.9,
+            "Students with Disabilities": 13.8,
+            "Students without Disabilities (general ed)": 24.5,
+            "Non-English Learners (general ed)": 24.9
+          },
+          "chronic_absent": {
+            "Schoolwide": 31.9,
+            "White": 28.8,
+            "Hispanic": 36.0,
+            "Black": 30.7,
+            "Asian/Pacific Islander (combined)": 20.0,
+            "Two or More Races": 33.3,
+            "Female": 34.9,
+            "Male": 29.3,
+            "Non-Binary/Undesignated Gender": 18.2,
+            "Economically Disadvantaged": 34.0,
+            "Students with Disabilities": 41.7,
+            "English Learners": 23.5
+          },
+          "oss_pct": {
+            "Schoolwide": 7.0
+          },
+          "grad_rate": {
+            "Asian/Pacific Islander (combined)": 84.0,
+            "Schoolwide": 88.4,
+            "White": 93.3,
+            "Hispanic": 88.4,
+            "Black": 86.8,
+            "Two or More Races": 89.3,
+            "Female": 92.3,
+            "Male": 85.2,
+            "Economically Disadvantaged": 89.6,
+            "Students with Disabilities": 78.0,
+            "English Learners": 61.1
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 38.2,
+          "disability_pct": 18.7,
+          "ell_pct": 5.7,
+          "white_pct": 16.5,
+          "hispanic_pct": 36.8,
+          "black_pct": 37.3,
+          "asian_pct": 4.0,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 5.0,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 12.3
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 59.6,
+            "White": 78.5,
+            "Hispanic": 51.2,
+            "Black": 55.1,
+            "Asian/Pacific Islander (combined)": 91.7,
+            "Two or More Races": 75.0,
+            "Female": 66.1,
+            "Male": 52.9,
+            "Economically Disadvantaged": 51.1,
+            "Non-Economically Disadvantaged": 64.1,
+            "Students with Disabilities": 21.4,
+            "Students without Disabilities (general ed)": 69.9,
+            "English Learners": 19.2,
+            "Non-English Learners (general ed)": 61.6
+          },
+          "math_prof": {
+            "Schoolwide": 26.7,
+            "White": 48.1,
+            "Hispanic": 22.2,
+            "Black": 17.8,
+            "Asian/Pacific Islander (combined)": 66.7,
+            "Two or More Races": 32.1,
+            "Female": 26.7,
+            "Male": 26.5,
+            "Economically Disadvantaged": 21.7,
+            "Non-Economically Disadvantaged": 29.4,
+            "Students without Disabilities (general ed)": 31.3,
+            "English Learners": 10.8,
+            "Non-English Learners (general ed)": 27.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 23.7,
+            "White": 22.6,
+            "Hispanic": 27.5,
+            "Black": 20.9,
+            "Asian/Pacific Islander (combined)": 14.4,
+            "Two or More Races": 28.6,
+            "Female": 26.1,
+            "Male": 21.5,
+            "Non-Binary/Undesignated Gender": 21.4,
+            "Economically Disadvantaged": 25.0,
+            "Students with Disabilities": 29.9,
+            "English Learners": 25.2,
+            "Homeless Students": 47.4
+          },
+          "oss_pct": {
+            "Asian": 0.0,
+            "Black": 10.74,
+            "Economically Disadvantaged": 7.72,
+            "Female": 5.38,
+            "Hispanic": 6.13,
+            "Male": 8.61,
+            "Non-Binary/Undesignated Gender": 0.0,
+            "Schoolwide": 7.08,
+            "Students with Disabilities": 11.67,
+            "Two or More Races": 2.8,
+            "White": 3.38
+          },
+          "grad_rate": {
+            "Schoolwide": 91.9,
+            "White": 93.9,
+            "Hispanic": 90.6,
+            "Black": 91.1,
+            "Asian/Pacific Islander (combined)": 100.0,
+            "Two or More Races": 95.5,
+            "Female": 92.8,
+            "Male": 91.3,
+            "Economically Disadvantaged": 92.2,
+            "Students with Disabilities": 80.5,
+            "English Learners": 55.6
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 39.7,
+          "disability_pct": 18.8,
+          "ell_pct": 5.7,
+          "white_pct": 15.6,
+          "hispanic_pct": 37.9,
+          "black_pct": 37.1,
+          "asian_pct": 4.2,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 4.9,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 12.2
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 54.7,
+            "Asian/Pacific Islander (combined)": 58.3,
+            "Black": 52.0,
+            "Economically Disadvantaged": 39.0,
+            "Female": 61.7,
+            "Hispanic": 41.0,
+            "Male": 49.0,
+            "English Learners": 18.4,
+            "Non-Economically Disadvantaged": 64.6,
+            "Non-English Learners (general ed)": 58.1,
+            "Students with Disabilities": 12.2,
+            "Students without Disabilities (general ed)": 66.7,
+            "Two or More Races": 72.4,
+            "White": 76.9
+          },
+          "math_prof": {
+            "Schoolwide": 34.2,
+            "Asian/Pacific Islander (combined)": 45.8,
+            "Black": 24.0,
+            "Economically Disadvantaged": 21.8,
+            "Female": 31.5,
+            "Hispanic": 23.7,
+            "Male": 36.4,
+            "Non-Economically Disadvantaged": 41.8,
+            "Non-English Learners (general ed)": 36.9,
+            "Students with Disabilities": 14.3,
+            "Students without Disabilities (general ed)": 39.8,
+            "Two or More Races": 64.3,
+            "White": 60.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 21.6,
+            "Asian/Pacific Islander (combined)": 13.0,
+            "Black": 19.2,
+            "Economically Disadvantaged": 24.2,
+            "Female": 22.5,
+            "Hispanic": 24.5,
+            "Male": 20.7,
+            "English Learners": 21.4,
+            "Non-Binary/Undesignated Gender": 20.0,
+            "Homeless Students": 40.0,
+            "Students with Disabilities": 28.6,
+            "Two or More Races": 26.9,
+            "White": 21.3
+          },
+          "oss_pct": {
+            "Schoolwide": 6.79,
+            "Black": 10.27,
+            "Economically Disadvantaged": 7.31,
+            "Female": 4.02,
+            "Hispanic": 5.74,
+            "Male": 9.15,
+            "Non-Binary/Undesignated Gender": 0.0,
+            "Students with Disabilities": 9.61,
+            "Two or More Races": 5.98,
+            "White": 1.53
+          },
+          "grad_rate": {
+            "Schoolwide": 90.5,
+            "Asian/Pacific Islander (combined)": 100.0,
+            "Black": 90.7,
+            "Economically Disadvantaged": 89.6,
+            "Female": 93.4,
+            "Hispanic": 86.2,
+            "Male": 87.5,
+            "English Learners": 77.3,
+            "Homeless Students": 61.5,
+            "Students with Disabilities": 78.0,
+            "Two or More Races": 100.0,
+            "White": 93.6
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 43.1,
+          "disability_pct": 18.7,
+          "ell_pct": 6.4,
+          "white_pct": 15.2,
+          "hispanic_pct": 36.7,
+          "black_pct": 37.9,
+          "asian_pct": 4.4,
+          "pacific_islander_pct": 0.3,
+          "two_or_more_pct": 5.5,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 12.6
+        }
+      }
+    },
+    "070": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 56.0,
+            "White": 74.0,
+            "Black": 56.0,
+            "Hispanic": 36.0,
+            "Students with Disabilities": 17.0,
+            "Economically Disadvantaged": 43.0
+          },
+          "math_prof": {
+            "Schoolwide": 46.0,
+            "White": 70.0,
+            "Black": 41.0,
+            "Hispanic": 28.0,
+            "Students with Disabilities": 14.0,
+            "Economically Disadvantaged": 32.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 2.9
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 18.0,
+          "econ_disadvantaged_pct": 47.0,
+          "ell_pct": 2.0,
+          "white_pct": 21.4,
+          "hispanic_pct": 30.1,
+          "black_pct": 39.6,
+          "asian_pct": 6.8,
+          "two_or_more_pct": 2.1
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 79.1,
+            "Black": 46.0,
+            "Economically Disadvantaged": 42.4,
+            "English Learners": 28.2,
+            "Female": 69.6,
+            "Hispanic": 53.4,
+            "Male": 47.9,
+            "Non-Economically Disadvantaged": 68.8,
+            "Non-English Learners (general ed)": 60.8,
+            "Schoolwide": 57.8,
+            "Students with Disabilities": 19.1,
+            "Students without Disabilities (general ed)": 65.2,
+            "Two or More Races": 84.2,
+            "White": 73.9
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 75.0,
+            "Black": 32.3,
+            "Economically Disadvantaged": 28.8,
+            "English Learners": 17.9,
+            "Female": 48.2,
+            "Hispanic": 40.9,
+            "Male": 43.4,
+            "Non-Economically Disadvantaged": 57.3,
+            "Non-English Learners (general ed)": 48.4,
+            "Schoolwide": 45.6,
+            "Students with Disabilities": 16.2,
+            "Students without Disabilities (general ed)": 51.1,
+            "Two or More Races": 73.7,
+            "White": 61.7
+          },
+          "oss_pct": {
+            "Schoolwide": 2.7
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 15.6,
+          "econ_disadvantaged_pct": 42.0,
+          "ell_pct": 1.8,
+          "asian_pct": 4.7,
+          "black_pct": 38.7,
+          "hispanic_pct": 30.7,
+          "pacific_islander_pct": 0.4,
+          "two_or_more_pct": 4.5,
+          "white_pct": 20.9,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 8.9
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 79.0,
+            "Black": 53.7,
+            "Economically Disadvantaged": 47.6,
+            "Non-Economically Disadvantaged": 74.1,
+            "Students with Disabilities": 19.5,
+            "Students without Disabilities (general ed)": 69.6,
+            "Female": 66.5,
+            "English Learners": 29.0,
+            "Hispanic": 53.8,
+            "Male": 56.2,
+            "Non-English Learners (general ed)": 64.1,
+            "Schoolwide": 61.7,
+            "White": 80.0
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 63.1,
+            "Black": 35.4,
+            "Economically Disadvantaged": 30.3,
+            "Non-Economically Disadvantaged": 62.2,
+            "Students with Disabilities": 13.9,
+            "Students without Disabilities (general ed)": 53.5,
+            "English Learners": 16.1,
+            "Female": 46.6,
+            "Hispanic": 40.0,
+            "Male": 48.1,
+            "Schoolwide": 47.2,
+            "Non-English Learners (general ed)": 49.5,
+            "White": 70.5
+          },
+          "chronic_absent": {
+            "Schoolwide": 3.5,
+            "White": 2.9,
+            "Hispanic": 4.8,
+            "Black": 2.3,
+            "Two or More Races": 4.2,
+            "Economically Disadvantaged": 3.7,
+            "Students with Disabilities": 2.8
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 45.0,
+          "disability_pct": 14.7,
+          "ell_pct": 1.0,
+          "white_pct": 21.1,
+          "hispanic_pct": 34.1,
+          "black_pct": 35.3,
+          "asian_pct": 4.1,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 5.0,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 10.0
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 76.7,
+            "Black": 49.2,
+            "Economically Disadvantaged": 46.6,
+            "Female": 70.4,
+            "Hispanic": 50.0,
+            "Male": 47.2,
+            "Non-Economically Disadvantaged": 66.9,
+            "Non-English Learners (general ed)": 58.3,
+            "Schoolwide": 58.3,
+            "Students with Disabilities": 15.1,
+            "Students without Disabilities (general ed)": 68.6,
+            "Two or More Races": 86.2,
+            "White": 76.1
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 82.8,
+            "Black": 27.4,
+            "Economically Disadvantaged": 24.3,
+            "Female": 45.5,
+            "Hispanic": 25.5,
+            "Male": 33.6,
+            "Non-Economically Disadvantaged": 50.5,
+            "Schoolwide": 39.3,
+            "Students with Disabilities": 12.0,
+            "Students without Disabilities (general ed)": 45.8,
+            "Two or More Races": 55.2,
+            "White": 69.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 5.2,
+            "White": 6.4,
+            "Hispanic": 4.9,
+            "Black": 5.4,
+            "Asian/Pacific Islander (combined)": 3.3,
+            "Two or More Races": 3.3,
+            "Female": 3.7,
+            "Male": 6.6,
+            "Economically Disadvantaged": 4.8,
+            "Students with Disabilities": 11.1,
+            "English Learners": 7.7
+          },
+          "oss_pct": {
+            "Schoolwide": 4.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 42.3,
+          "disability_pct": 18.3,
+          "ell_pct": 3.0,
+          "white_pct": 18.9,
+          "hispanic_pct": 32.8,
+          "black_pct": 36.4,
+          "asian_pct": 5.4,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.0,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 9.3
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {},
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 42.8,
+          "disability_pct": 17.9,
+          "ell_pct": 3.9,
+          "white_pct": 20.6,
+          "hispanic_pct": 37.4,
+          "black_pct": 32.9,
+          "asian_pct": 3.3,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 5.4,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 9.4
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 6.3,
+            "White": 3.3,
+            "Hispanic": 6.8,
+            "Black": 6.9,
+            "Asian/Pacific Islander (combined)": 3.7,
+            "Two or More Races": 11.1,
+            "Female": 6.9,
+            "Male": 5.7,
+            "Economically Disadvantaged": 8.6,
+            "Students with Disabilities": 5.6,
+            "English Learners": 16.0
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 46.4,
+          "disability_pct": 17.2,
+          "ell_pct": 4.6,
+          "white_pct": 16.3,
+          "hispanic_pct": 37.0,
+          "black_pct": 36.8,
+          "asian_pct": 5.0,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 5.0,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 9.8
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 47.9,
+            "White": 63.5,
+            "Hispanic": 34.7,
+            "Black": 43.2,
+            "Asian/Pacific Islander (combined)": 61.5,
+            "Two or More Races": 75.8,
+            "Female": 49.2,
+            "Male": 46.5,
+            "Economically Disadvantaged": 24.6,
+            "Non-Economically Disadvantaged": 56.8,
+            "Students without Disabilities (general ed)": 59.2,
+            "English Learners": 12.5,
+            "Non-English Learners (general ed)": 50.0
+          },
+          "math_prof": {
+            "Schoolwide": 32.9,
+            "White": 68.0,
+            "Hispanic": 13.7,
+            "Black": 25.6,
+            "Asian/Pacific Islander (combined)": 50.0,
+            "Two or More Races": 51.5,
+            "Female": 29.1,
+            "Male": 35.9,
+            "Economically Disadvantaged": 12.7,
+            "Non-Economically Disadvantaged": 40.4,
+            "Students with Disabilities": 13.4,
+            "Students without Disabilities (general ed)": 38.5,
+            "Non-English Learners (general ed)": 34.7
+          },
+          "chronic_absent": {
+            "Schoolwide": 9.7,
+            "White": 5.2,
+            "Hispanic": 13.6,
+            "Black": 9.6,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 13.9,
+            "Female": 7.2,
+            "Male": 12.0,
+            "Economically Disadvantaged": 13.8,
+            "Students with Disabilities": 12.2,
+            "English Learners": 20.0
+          },
+          "oss_pct": {
+            "Schoolwide": 4.1
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 34.6,
+          "disability_pct": 21.1,
+          "ell_pct": 3.4,
+          "white_pct": 16.9,
+          "hispanic_pct": 28.6,
+          "black_pct": 40.3,
+          "asian_pct": 5.3,
+          "pacific_islander_pct": 0.7,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 8.0,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 10.5
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 51.3,
+            "White": 68.9,
+            "Hispanic": 39.3,
+            "Black": 50.6,
+            "Asian/Pacific Islander (combined)": 50.0,
+            "Two or More Races": 66.7,
+            "Female": 56.8,
+            "Male": 45.4,
+            "Economically Disadvantaged": 34.0,
+            "Non-Economically Disadvantaged": 60.1,
+            "Students with Disabilities": 14.8,
+            "Students without Disabilities (general ed)": 59.7,
+            "English Learners": 16.7,
+            "Non-English Learners (general ed)": 54.7
+          },
+          "math_prof": {
+            "Schoolwide": 36.3,
+            "White": 67.8,
+            "Hispanic": 21.3,
+            "Black": 31.0,
+            "Asian/Pacific Islander (combined)": 41.7,
+            "Two or More Races": 53.3,
+            "Female": 33.5,
+            "Male": 39.4,
+            "Economically Disadvantaged": 13.4,
+            "Non-Economically Disadvantaged": 48.4,
+            "Students without Disabilities (general ed)": 42.8,
+            "English Learners": 10.4,
+            "Non-English Learners (general ed)": 39.3
+          },
+          "chronic_absent": {
+            "Schoolwide": 10.7,
+            "White": 11.1,
+            "Hispanic": 13.9,
+            "Black": 6.1,
+            "Asian/Pacific Islander (combined)": 16.7,
+            "Two or More Races": 16.7,
+            "Female": 12.0,
+            "Male": 9.4,
+            "Economically Disadvantaged": 11.5,
+            "Students with Disabilities": 19.3,
+            "English Learners": 9.5
+          },
+          "oss_pct": {
+            "Schoolwide": 2.9
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 39.5,
+          "disability_pct": 18.0,
+          "ell_pct": 4.3,
+          "white_pct": 18.6,
+          "hispanic_pct": 35.7,
+          "black_pct": 36.8,
+          "asian_pct": 1.9,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 6.2,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 10.4
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 66.6,
+            "White": 76.1,
+            "Hispanic": 52.9,
+            "Black": 70.1,
+            "Asian/Pacific Islander (combined)": 82.4,
+            "Two or More Races": 88.9,
+            "Female": 69.3,
+            "Male": 64.1,
+            "Economically Disadvantaged": 48.3,
+            "Non-Economically Disadvantaged": 77.3,
+            "Students with Disabilities": 25.0,
+            "Students without Disabilities (general ed)": 76.6,
+            "English Learners": 32.6,
+            "Non-English Learners (general ed)": 70.0
+          },
+          "math_prof": {
+            "Schoolwide": 42.3,
+            "White": 58.3,
+            "Hispanic": 30.7,
+            "Black": 36.9,
+            "Asian/Pacific Islander (combined)": 88.2,
+            "Two or More Races": 72.2,
+            "Female": 41.3,
+            "Male": 43.2,
+            "Economically Disadvantaged": 25.7,
+            "Non-Economically Disadvantaged": 52.2,
+            "Students without Disabilities (general ed)": 50.6,
+            "English Learners": 20.4,
+            "Non-English Learners (general ed)": 44.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 10.8,
+            "White": 12.2,
+            "Hispanic": 17.2,
+            "Black": 6.5,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 2.8,
+            "Female": 9.4,
+            "Male": 12.2,
+            "Economically Disadvantaged": 11.8,
+            "Students with Disabilities": 22.6,
+            "English Learners": 14.3
+          },
+          "oss_pct": {
+            "Asian": 0.0,
+            "Black": 8.81,
+            "Economically Disadvantaged": 5.86,
+            "Female": 1.64,
+            "Hispanic": 4.89,
+            "Male": 10.0,
+            "Schoolwide": 5.95,
+            "Students with Disabilities": 7.45,
+            "Two or More Races": 2.78,
+            "White": 4.11
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 42.1,
+          "disability_pct": 18.1,
+          "ell_pct": 4.5,
+          "white_pct": 14.8,
+          "hispanic_pct": 36.6,
+          "black_pct": 38.0,
+          "asian_pct": 3.1,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.4,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 10.7
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 64.5,
+            "Asian/Pacific Islander (combined)": 92.9,
+            "Black": 55.2,
+            "Economically Disadvantaged": 52.6,
+            "Female": 69.9,
+            "Hispanic": 59.1,
+            "Male": 59.1,
+            "English Learners": 35.1,
+            "Non-Economically Disadvantaged": 73.6,
+            "Non-English Learners (general ed)": 68.4,
+            "Students with Disabilities": 21.9,
+            "Students without Disabilities (general ed)": 75.0,
+            "Two or More Races": 73.0,
+            "White": 82.1
+          },
+          "math_prof": {
+            "Schoolwide": 47.8,
+            "Asian/Pacific Islander (combined)": 71.4,
+            "Black": 33.3,
+            "Economically Disadvantaged": 33.5,
+            "Female": 44.7,
+            "Hispanic": 40.7,
+            "Male": 50.8,
+            "English Learners": 10.2,
+            "Non-Economically Disadvantaged": 58.6,
+            "Non-English Learners (general ed)": 52.9,
+            "Students without Disabilities (general ed)": 57.1,
+            "Two or More Races": 56.8,
+            "White": 76.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 9.5,
+            "Asian/Pacific Islander (combined)": 7.1,
+            "Black": 7.4,
+            "Economically Disadvantaged": 11.6,
+            "Female": 9.2,
+            "Hispanic": 10.0,
+            "Male": 9.8,
+            "English Learners": 6.9,
+            "Students with Disabilities": 11.8,
+            "Two or More Races": 14.3,
+            "White": 10.5
+          },
+          "oss_pct": {
+            "Schoolwide": 3.15,
+            "Black": 5.19,
+            "Economically Disadvantaged": 3.7,
+            "Female": 1.18,
+            "Hispanic": 2.48,
+            "Male": 4.74,
+            "Students with Disabilities": 1.1,
+            "Two or More Races": 2.78,
+            "White": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 44.3,
+          "disability_pct": 16.3,
+          "ell_pct": 5.2,
+          "white_pct": 19.4,
+          "hispanic_pct": 40.5,
+          "black_pct": 29.4,
+          "asian_pct": 2.3,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 7.7,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 10.4
+        }
+      }
+    },
+    "090": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 67.0,
+            "White": 73.0,
+            "Black": 65.0,
+            "Hispanic": 64.0,
+            "Students with Disabilities": 26.0,
+            "Economically Disadvantaged": 56.0
+          },
+          "math_prof": {
+            "Schoolwide": 44.0,
+            "White": 64.0,
+            "Black": 35.0,
+            "Hispanic": 38.0,
+            "Students with Disabilities": 14.0,
+            "Economically Disadvantaged": 32.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 6.0
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 20.0,
+          "econ_disadvantaged_pct": 41.0,
+          "ell_pct": 2.0,
+          "white_pct": 24.4,
+          "hispanic_pct": 27.4,
+          "black_pct": 42.2,
+          "asian_pct": 4.5,
+          "two_or_more_pct": 1.5
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 79.3,
+            "Black": 66.5,
+            "Economically Disadvantaged": 52.8,
+            "English Learners": 25.0,
+            "Female": 70.9,
+            "Hispanic": 52.2,
+            "Male": 62.5,
+            "Non-Economically Disadvantaged": 76.8,
+            "Non-English Learners (general ed)": 68.8,
+            "Schoolwide": 66.3,
+            "Students with Disabilities": 22.8,
+            "Students without Disabilities (general ed)": 76.4,
+            "White": 77.9
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 66.7,
+            "Black": 35.0,
+            "Economically Disadvantaged": 29.0,
+            "Female": 39.8,
+            "Hispanic": 27.4,
+            "Male": 40.9,
+            "Non-Economically Disadvantaged": 49.3,
+            "Schoolwide": 40.4,
+            "White": 57.3
+          },
+          "oss_pct": {
+            "Schoolwide": 4.5
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 20.5,
+          "econ_disadvantaged_pct": 42.2,
+          "ell_pct": 2.3,
+          "asian_pct": 5.5,
+          "black_pct": 41.2,
+          "hispanic_pct": 27.6,
+          "two_or_more_pct": 1.2,
+          "white_pct": 24.4,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 10.6
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 86.1,
+            "Black": 58.1,
+            "Economically Disadvantaged": 51.0,
+            "Non-Economically Disadvantaged": 70.5,
+            "Students without Disabilities (general ed)": 71.6,
+            "Students with Disabilities": 23.1,
+            "Two or More Races": 70.0,
+            "English Learners": 47.2,
+            "Female": 71.6,
+            "Hispanic": 53.0,
+            "Male": 55.3,
+            "Schoolwide": 62.4,
+            "Non-English Learners (general ed)": 63.6,
+            "White": 71.6
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 77.7,
+            "Black": 27.8,
+            "Economically Disadvantaged": 26.8,
+            "Non-Economically Disadvantaged": 48.9,
+            "Students without Disabilities (general ed)": 46.0,
+            "Students with Disabilities": 13.2,
+            "Two or More Races": 60.0,
+            "Female": 40.3,
+            "English Learners": 13.5,
+            "Hispanic": 28.3,
+            "Male": 39.5,
+            "Non-English Learners (general ed)": 42.1,
+            "Schoolwide": 39.8,
+            "White": 57.3
+          },
+          "chronic_absent": {
+            "Schoolwide": 6.2,
+            "White": 8.3,
+            "Hispanic": 8.8,
+            "Black": 4.5,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 0.0,
+            "Economically Disadvantaged": 8.4,
+            "Students with Disabilities": 12.7,
+            "English Learners": 8.3
+          },
+          "oss_pct": {
+            "Schoolwide": 2.8
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 38.6,
+          "disability_pct": 20.0,
+          "ell_pct": 2.2,
+          "white_pct": 24.9,
+          "hispanic_pct": 28.5,
+          "black_pct": 37.1,
+          "asian_pct": 6.7,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 2.8,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 11.4
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "White": 81.3,
+            "Two or More Races": 76.5,
+            "Students without Disabilities (general ed)": 74.5,
+            "Students with Disabilities": 17.9,
+            "Schoolwide": 63.4,
+            "Non-English Learners (general ed)": 65.0,
+            "Non-Economically Disadvantaged": 75.7,
+            "Male": 54.4,
+            "Hispanic": 52.5,
+            "Female": 73.4,
+            "English Learners": 38.5,
+            "Economically Disadvantaged": 46.7,
+            "Black": 56.5,
+            "Asian/Pacific Islander (combined)": 84.2
+          },
+          "math_prof": {
+            "White": 66.7,
+            "Two or More Races": 64.7,
+            "Students without Disabilities (general ed)": 49.0,
+            "Students with Disabilities": 13.3,
+            "Schoolwide": 42.1,
+            "Non-English Learners (general ed)": 44.2,
+            "Non-Economically Disadvantaged": 56.3,
+            "Male": 37.6,
+            "Hispanic": 31.7,
+            "Female": 47.1,
+            "English Learners": 11.1,
+            "Economically Disadvantaged": 22.2,
+            "Black": 28.2,
+            "Asian/Pacific Islander (combined)": 68.4
+          },
+          "chronic_absent": {
+            "Schoolwide": 7.5,
+            "White": 6.6,
+            "Hispanic": 9.6,
+            "Black": 6.7,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 8.7,
+            "Female": 8.3,
+            "Male": 6.7,
+            "Economically Disadvantaged": 7.4,
+            "Students with Disabilities": 19.4
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 42.2,
+          "disability_pct": 20.0,
+          "ell_pct": 2.2,
+          "white_pct": 24.4,
+          "hispanic_pct": 34.1,
+          "black_pct": 32.9,
+          "asian_pct": 3.8,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 4.6,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 11.9
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {},
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 37.3,
+          "disability_pct": 22.7,
+          "ell_pct": 1.9,
+          "white_pct": 23.3,
+          "hispanic_pct": 32.4,
+          "black_pct": 36.3,
+          "asian_pct": 2.3,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 5.6,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 12.4
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 4.4,
+            "White": 4.0,
+            "Hispanic": 7.6,
+            "Black": 1.2,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 8.3,
+            "Female": 4.0,
+            "Male": 4.7,
+            "Economically Disadvantaged": 6.3,
+            "Students with Disabilities": 11.4,
+            "English Learners": 6.7
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 43.7,
+          "disability_pct": 24.8,
+          "ell_pct": 3.2,
+          "white_pct": 20.4,
+          "hispanic_pct": 35.7,
+          "black_pct": 36.1,
+          "asian_pct": 2.5,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 5.0,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 12.9
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 58.2,
+            "White": 81.6,
+            "Hispanic": 49.2,
+            "Black": 49.4,
+            "Asian/Pacific Islander (combined)": 81.3,
+            "Two or More Races": 73.1,
+            "Female": 64.8,
+            "Male": 52.8,
+            "Economically Disadvantaged": 41.0,
+            "Non-Economically Disadvantaged": 67.6,
+            "Students with Disabilities": 23.8,
+            "Students without Disabilities (general ed)": 69.2,
+            "English Learners": 25.0,
+            "Non-English Learners (general ed)": 60.4
+          },
+          "math_prof": {
+            "Schoolwide": 24.9,
+            "White": 48.1,
+            "Hispanic": 19.2,
+            "Black": 15.0,
+            "Asian/Pacific Islander (combined)": 43.8,
+            "Two or More Races": 25.9,
+            "Female": 22.3,
+            "Male": 26.7,
+            "Economically Disadvantaged": 12.8,
+            "Non-Economically Disadvantaged": 31.5,
+            "Students with Disabilities": 15.1,
+            "Students without Disabilities (general ed)": 27.8,
+            "Non-English Learners (general ed)": 26.4
+          },
+          "chronic_absent": {
+            "Schoolwide": 18.9,
+            "White": 10.2,
+            "Hispanic": 25.7,
+            "Black": 15.7,
+            "Asian/Pacific Islander (combined)": 6.3,
+            "Two or More Races": 29.6,
+            "Female": 18.8,
+            "Male": 19.1,
+            "Economically Disadvantaged": 23.7,
+            "Students with Disabilities": 27.2,
+            "English Learners": 13.6
+          },
+          "oss_pct": {
+            "Schoolwide": 6.7
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 43.7,
+          "disability_pct": 23.7,
+          "ell_pct": 4.2,
+          "white_pct": 19.1,
+          "hispanic_pct": 38.5,
+          "black_pct": 34.2,
+          "asian_pct": 3.1,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 5.2,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 13.2
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 56.4,
+            "White": 77.2,
+            "Hispanic": 46.7,
+            "Black": 47.0,
+            "Asian/Pacific Islander (combined)": 81.8,
+            "Two or More Races": 72.7,
+            "Female": 63.0,
+            "Male": 51.1,
+            "Economically Disadvantaged": 36.7,
+            "Non-Economically Disadvantaged": 66.6,
+            "Students with Disabilities": 22.0,
+            "Students without Disabilities (general ed)": 68.5,
+            "English Learners": 14.3,
+            "Non-English Learners (general ed)": 59.7
+          },
+          "math_prof": {
+            "Schoolwide": 25.9,
+            "White": 57.8,
+            "Hispanic": 10.7,
+            "Black": 19.5,
+            "Asian/Pacific Islander (combined)": 31.8,
+            "Two or More Races": 33.3,
+            "Female": 24.5,
+            "Male": 26.3,
+            "Economically Disadvantaged": 11.1,
+            "Non-Economically Disadvantaged": 33.6,
+            "Students with Disabilities": 14.7,
+            "Students without Disabilities (general ed)": 29.8,
+            "Non-English Learners (general ed)": 27.7
+          },
+          "chronic_absent": {
+            "Schoolwide": 18.0,
+            "White": 13.3,
+            "Hispanic": 24.3,
+            "Black": 16.1,
+            "Asian/Pacific Islander (combined)": 8.3,
+            "Two or More Races": 16.7,
+            "Female": 17.0,
+            "Male": 18.9,
+            "Economically Disadvantaged": 20.6,
+            "Students with Disabilities": 23.7,
+            "English Learners": 22.7
+          },
+          "oss_pct": {
+            "Schoolwide": 4.9
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 38.9,
+          "disability_pct": 24.7,
+          "ell_pct": 3.9,
+          "white_pct": 20.1,
+          "hispanic_pct": 33.5,
+          "black_pct": 34.5,
+          "asian_pct": 4.5,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.1,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 11.9
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 60.1,
+            "White": 81.3,
+            "Hispanic": 44.9,
+            "Black": 57.5,
+            "Asian/Pacific Islander (combined)": 58.3,
+            "Two or More Races": 79.3,
+            "Female": 65.1,
+            "Male": 55.9,
+            "Economically Disadvantaged": 41.5,
+            "Non-Economically Disadvantaged": 68.4,
+            "Students with Disabilities": 33.0,
+            "Students without Disabilities (general ed)": 68.5,
+            "Non-English Learners (general ed)": 65.5
+          },
+          "math_prof": {
+            "Schoolwide": 34.2,
+            "White": 65.9,
+            "Hispanic": 15.6,
+            "Black": 29.4,
+            "Asian/Pacific Islander (combined)": 41.7,
+            "Two or More Races": 44.8,
+            "Female": 34.2,
+            "Male": 34.2,
+            "Economically Disadvantaged": 18.8,
+            "Non-Economically Disadvantaged": 41.2,
+            "Students with Disabilities": 13.0,
+            "Students without Disabilities (general ed)": 40.7,
+            "Non-English Learners (general ed)": 37.5
+          },
+          "chronic_absent": {
+            "Schoolwide": 11.3,
+            "White": 7.4,
+            "Hispanic": 15.3,
+            "Black": 11.2,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 10.0,
+            "Female": 11.2,
+            "Male": 11.4,
+            "Economically Disadvantaged": 13.0,
+            "Students with Disabilities": 20.2,
+            "English Learners": 14.3
+          },
+          "oss_pct": {
+            "Asian": 7.69,
+            "Black": 9.64,
+            "Economically Disadvantaged": 9.62,
+            "Female": 3.72,
+            "Hispanic": 7.74,
+            "Male": 8.91,
+            "Schoolwide": 6.48,
+            "Students with Disabilities": 11.38,
+            "Two or More Races": 0.0,
+            "White": 1.04
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 37.8,
+          "disability_pct": 26.1,
+          "ell_pct": 8.2,
+          "white_pct": 20.6,
+          "hispanic_pct": 33.6,
+          "black_pct": 36.1,
+          "asian_pct": 2.4,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 6.9,
+          "student_teacher_ratio": 7.0,
+          "teacher_avg_years_exp": 12.3
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 70.7,
+            "Black": 72.5,
+            "Economically Disadvantaged": 58.6,
+            "Female": 74.2,
+            "Hispanic": 59.4,
+            "Male": 67.1,
+            "English Learners": 31.0,
+            "Non-Economically Disadvantaged": 79.4,
+            "Non-English Learners (general ed)": 74.9,
+            "Students with Disabilities": 45.9,
+            "Students without Disabilities (general ed)": 76.7,
+            "Two or More Races": 96.4,
+            "White": 78.2
+          },
+          "math_prof": {
+            "Schoolwide": 43.7,
+            "Black": 37.3,
+            "Economically Disadvantaged": 24.9,
+            "Female": 44.2,
+            "Hispanic": 28.6,
+            "Male": 43.1,
+            "English Learners": 22.7,
+            "Non-Economically Disadvantaged": 57.1,
+            "Non-English Learners (general ed)": 46.0,
+            "Students with Disabilities": 16.5,
+            "Students without Disabilities (general ed)": 50.3,
+            "Two or More Races": 78.6,
+            "White": 65.5
+          },
+          "chronic_absent": {
+            "Schoolwide": 11.1,
+            "Black": 12.0,
+            "Economically Disadvantaged": 12.8,
+            "Female": 10.4,
+            "Hispanic": 11.7,
+            "Male": 11.7,
+            "English Learners": 8.3,
+            "Students with Disabilities": 22.0,
+            "Two or More Races": 14.3,
+            "White": 5.8
+          },
+          "oss_pct": {
+            "Schoolwide": 5.21,
+            "Black": 10.0,
+            "Economically Disadvantaged": 6.94,
+            "Female": 3.27,
+            "Hispanic": 3.78,
+            "Male": 7.09,
+            "Students with Disabilities": 9.32,
+            "Two or More Races": 0.0,
+            "White": 1.14
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 46.0,
+          "disability_pct": 22.5,
+          "ell_pct": 5.4,
+          "white_pct": 18.4,
+          "hispanic_pct": 37.8,
+          "black_pct": 35.0,
+          "asian_pct": 1.7,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 6.5,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 12.4
+        }
+      }
+    },
+    "120": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 66.0,
+            "White": 78.0,
+            "Black": 59.0,
+            "Hispanic": 52.0,
+            "Students with Disabilities": 38.0,
+            "Economically Disadvantaged": 47.0
+          },
+          "math_prof": {
+            "Schoolwide": 68.0,
+            "White": 79.0,
+            "Black": 61.0,
+            "Hispanic": 55.0,
+            "Students with Disabilities": 45.0,
+            "Economically Disadvantaged": 47.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 1.2
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 20.0,
+          "econ_disadvantaged_pct": 24.0,
+          "ell_pct": 3.0,
+          "white_pct": 36.8,
+          "hispanic_pct": 21.0,
+          "black_pct": 30.7,
+          "asian_pct": 3.9,
+          "two_or_more_pct": 7.6
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 63.9,
+            "Economically Disadvantaged": 47.5,
+            "English Learners": 56.3,
+            "Female": 83.5,
+            "Hispanic": 53.4,
+            "Male": 61.6,
+            "Non-Economically Disadvantaged": 81.1,
+            "Non-English Learners (general ed)": 72.7,
+            "Schoolwide": 71.5,
+            "Students with Disabilities": 31.8,
+            "Students without Disabilities (general ed)": 81.8,
+            "Two or More Races": 75.0,
+            "White": 87.6
+          },
+          "math_prof": {
+            "Black": 57.5,
+            "Economically Disadvantaged": 45.9,
+            "English Learners": 35.3,
+            "Female": 73.5,
+            "Hispanic": 55.5,
+            "Male": 63.3,
+            "Non-Economically Disadvantaged": 76.6,
+            "Non-English Learners (general ed)": 70.7,
+            "Schoolwide": 67.9,
+            "Students with Disabilities": 47.8,
+            "Students without Disabilities (general ed)": 73.1,
+            "Two or More Races": 83.3,
+            "White": 81.5
+          },
+          "oss_pct": {
+            "Schoolwide": 1.6
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 19.9,
+          "econ_disadvantaged_pct": 26.7,
+          "ell_pct": 3.8,
+          "native_american_pct": 0.2,
+          "asian_pct": 3.0,
+          "black_pct": 32.1,
+          "hispanic_pct": 19.7,
+          "two_or_more_pct": 7.4,
+          "white_pct": 37.6,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 11.5
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 57.3,
+            "Economically Disadvantaged": 47.7,
+            "Non-Economically Disadvantaged": 82.5,
+            "Students with Disabilities": 42.8,
+            "Students without Disabilities (general ed)": 77.9,
+            "Female": 76.0,
+            "English Learners": 46.2,
+            "Hispanic": 68.6,
+            "Male": 68.9,
+            "Non-English Learners (general ed)": 73.9,
+            "Schoolwide": 72.3,
+            "White": 90.6
+          },
+          "math_prof": {
+            "Black": 69.0,
+            "Economically Disadvantaged": 62.5,
+            "Non-Economically Disadvantaged": 84.5,
+            "Students with Disabilities": 58.8,
+            "Students without Disabilities (general ed)": 81.6,
+            "English Learners": 69.2,
+            "Female": 78.9,
+            "Hispanic": 72.5,
+            "Male": 77.4,
+            "Schoolwide": 78.1,
+            "Non-English Learners (general ed)": 78.6,
+            "White": 93.2
+          },
+          "chronic_absent": {
+            "Schoolwide": 5.0,
+            "White": 5.0,
+            "Hispanic": 6.4,
+            "Black": 3.9,
+            "Two or More Races": 5.9,
+            "Economically Disadvantaged": 5.0,
+            "Students with Disabilities": 2.7,
+            "English Learners": 10.3
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 25.2,
+          "disability_pct": 14.8,
+          "ell_pct": 6.1,
+          "white_pct": 37.4,
+          "hispanic_pct": 19.5,
+          "black_pct": 32.3,
+          "asian_pct": 3.4,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 7.2,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 12.5
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 57.7,
+            "Economically Disadvantaged": 45.5,
+            "English Learners": 36.4,
+            "Female": 66.7,
+            "Hispanic": 56.8,
+            "Male": 67.0,
+            "Non-Economically Disadvantaged": 74.7,
+            "Non-English Learners (general ed)": 68.6,
+            "Schoolwide": 66.8,
+            "Students with Disabilities": 40.0,
+            "Students without Disabilities (general ed)": 74.4,
+            "White": 77.9
+          },
+          "math_prof": {
+            "Black": 64.8,
+            "Economically Disadvantaged": 50.9,
+            "English Learners": 54.5,
+            "Female": 73.1,
+            "Hispanic": 64.9,
+            "Male": 72.6,
+            "Non-Economically Disadvantaged": 80.8,
+            "Non-English Learners (general ed)": 73.8,
+            "Schoolwide": 72.8,
+            "Students with Disabilities": 50.0,
+            "Students without Disabilities (general ed)": 79.4,
+            "White": 84.6
+          },
+          "chronic_absent": {
+            "Schoolwide": 4.3,
+            "White": 2.9,
+            "Hispanic": 6.7,
+            "Black": 4.4,
+            "Two or More Races": 5.9,
+            "Female": 2.3,
+            "Male": 6.0,
+            "Economically Disadvantaged": 5.8,
+            "Students with Disabilities": 8.3,
+            "English Learners": 9.1
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 22.8,
+          "disability_pct": 13.1,
+          "ell_pct": 5.7,
+          "white_pct": 39.5,
+          "hispanic_pct": 19.1,
+          "black_pct": 30.3,
+          "asian_pct": 3.0,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 7.8,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 12.1
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {},
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 16.6,
+          "disability_pct": 14.4,
+          "ell_pct": 4.9,
+          "white_pct": 37.6,
+          "hispanic_pct": 20.8,
+          "black_pct": 28.8,
+          "asian_pct": 2.9,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 9.7,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 11.5
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 2.9,
+            "White": 0.6,
+            "Hispanic": 7.1,
+            "Black": 2.5,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 4.2,
+            "Female": 4.1,
+            "Male": 1.8,
+            "Economically Disadvantaged": 9.8,
+            "Students with Disabilities": 9.6,
+            "English Learners": 4.3
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 17.5,
+          "disability_pct": 14.2,
+          "ell_pct": 5.1,
+          "white_pct": 37.8,
+          "hispanic_pct": 21.7,
+          "black_pct": 26.8,
+          "asian_pct": 2.6,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 11.0,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 12.7
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 67.0,
+            "White": 74.7,
+            "Hispanic": 51.2,
+            "Black": 60.4,
+            "Two or More Races": 81.0,
+            "Female": 74.0,
+            "Male": 60.0,
+            "Economically Disadvantaged": 37.0,
+            "Non-Economically Disadvantaged": 71.7,
+            "Students with Disabilities": 34.8,
+            "Students without Disabilities (general ed)": 71.2,
+            "English Learners": 45.0,
+            "Non-English Learners (general ed)": 69.4
+          },
+          "math_prof": {
+            "Schoolwide": 69.5,
+            "White": 84.8,
+            "Hispanic": 58.7,
+            "Black": 50.9,
+            "Two or More Races": 76.2,
+            "Female": 67.3,
+            "Male": 71.6,
+            "Economically Disadvantaged": 46.4,
+            "Non-Economically Disadvantaged": 73.1,
+            "Students with Disabilities": 47.8,
+            "Students without Disabilities (general ed)": 72.2,
+            "English Learners": 47.8,
+            "Non-English Learners (general ed)": 72.2
+          },
+          "chronic_absent": {
+            "Schoolwide": 13.3,
+            "White": 13.1,
+            "Hispanic": 18.8,
+            "Black": 8.6,
+            "Two or More Races": 13.0,
+            "Female": 10.6,
+            "Male": 15.7,
+            "Economically Disadvantaged": 23.8,
+            "Students with Disabilities": 27.4,
+            "English Learners": 17.2
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 13.5,
+          "disability_pct": 14.4,
+          "ell_pct": 6.3,
+          "white_pct": 37.1,
+          "hispanic_pct": 24.0,
+          "black_pct": 25.8,
+          "asian_pct": 2.0,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 10.8,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 11.0
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 66.4,
+            "White": 79.5,
+            "Hispanic": 61.7,
+            "Black": 49.1,
+            "Two or More Races": 70.8,
+            "Female": 75.5,
+            "Male": 58.3,
+            "Economically Disadvantaged": 47.4,
+            "Non-Economically Disadvantaged": 70.4,
+            "Students with Disabilities": 40.0,
+            "Students without Disabilities (general ed)": 71.4,
+            "English Learners": 52.6,
+            "Non-English Learners (general ed)": 67.7
+          },
+          "math_prof": {
+            "Schoolwide": 75.6,
+            "White": 88.5,
+            "Hispanic": 71.7,
+            "Black": 54.7,
+            "Two or More Races": 87.5,
+            "Female": 72.5,
+            "Male": 78.3,
+            "Economically Disadvantaged": 55.3,
+            "Non-Economically Disadvantaged": 79.9,
+            "Students with Disabilities": 42.9,
+            "Students without Disabilities (general ed)": 81.9,
+            "English Learners": 63.2,
+            "Non-English Learners (general ed)": 76.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 8.7,
+            "White": 10.7,
+            "Hispanic": 9.1,
+            "Black": 4.0,
+            "Asian/Pacific Islander (combined)": 9.1,
+            "Two or More Races": 10.6,
+            "Female": 9.6,
+            "Male": 7.8,
+            "Economically Disadvantaged": 6.7,
+            "Students with Disabilities": 14.9,
+            "English Learners": 0.0
+          },
+          "oss_pct": {
+            "Schoolwide": 0.4
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 15.9,
+          "disability_pct": 15.7,
+          "ell_pct": 4.3,
+          "white_pct": 38.0,
+          "hispanic_pct": 27.3,
+          "black_pct": 22.1,
+          "asian_pct": 2.2,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 10.3,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 9.4
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 64.0,
+            "White": 81.8,
+            "Hispanic": 66.1,
+            "Black": 40.0,
+            "Two or More Races": 70.0,
+            "Female": 66.9,
+            "Male": 60.7,
+            "Economically Disadvantaged": 41.2,
+            "Non-Economically Disadvantaged": 67.8,
+            "Students with Disabilities": 26.2,
+            "Students without Disabilities (general ed)": 72.2,
+            "English Learners": 38.5,
+            "Non-English Learners (general ed)": 65.5
+          },
+          "math_prof": {
+            "Schoolwide": 69.3,
+            "White": 89.6,
+            "Hispanic": 67.2,
+            "Black": 43.1,
+            "Two or More Races": 83.3,
+            "Female": 69.2,
+            "Male": 69.2,
+            "Economically Disadvantaged": 50.0,
+            "Non-Economically Disadvantaged": 72.8,
+            "Students with Disabilities": 38.1,
+            "Students without Disabilities (general ed)": 76.0,
+            "English Learners": 46.7,
+            "Non-English Learners (general ed)": 70.9
+          },
+          "chronic_absent": {
+            "Schoolwide": 4.3,
+            "White": 4.0,
+            "Hispanic": 7.6,
+            "Black": 1.7,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 4.3,
+            "Female": 5.8,
+            "Male": 2.6,
+            "Economically Disadvantaged": 3.4,
+            "Students with Disabilities": 5.9,
+            "English Learners": 0.0
+          },
+          "oss_pct": {
+            "Schoolwide": 0.81
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 18.8,
+          "disability_pct": 16.0,
+          "ell_pct": 3.5,
+          "white_pct": 36.7,
+          "hispanic_pct": 25.4,
+          "black_pct": 25.4,
+          "asian_pct": 2.5,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 10.0,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 9.4
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 74.1,
+            "Black": 60.0,
+            "Economically Disadvantaged": 58.7,
+            "Female": 78.4,
+            "Hispanic": 74.6,
+            "Male": 70.3,
+            "English Learners": 53.3,
+            "Non-Economically Disadvantaged": 77.7,
+            "Non-English Learners (general ed)": 75.4,
+            "Students with Disabilities": 52.4,
+            "Students without Disabilities (general ed)": 78.7,
+            "Two or More Races": 81.0,
+            "White": 81.4
+          },
+          "math_prof": {
+            "Schoolwide": 69.0,
+            "Black": 46.7,
+            "Economically Disadvantaged": 45.7,
+            "Female": 68.5,
+            "Hispanic": 68.7,
+            "Male": 69.5,
+            "English Learners": 60.0,
+            "Non-Economically Disadvantaged": 74.6,
+            "Non-English Learners (general ed)": 69.6,
+            "Students with Disabilities": 47.6,
+            "Students without Disabilities (general ed)": 73.6,
+            "Two or More Races": 95.2,
+            "White": 77.9
+          },
+          "chronic_absent": {
+            "Schoolwide": 5.4,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Black": 5.1,
+            "Economically Disadvantaged": 8.6,
+            "Female": 5.0,
+            "Hispanic": 6.9,
+            "Male": 5.9,
+            "English Learners": 6.7,
+            "Students with Disabilities": 4.0,
+            "Two or More Races": 2.1,
+            "White": 5.9
+          },
+          "oss_pct": {
+            "Schoolwide": 1.01,
+            "Black": 0.81,
+            "Economically Disadvantaged": 2.36,
+            "Female": 0.4,
+            "Hispanic": 1.47,
+            "Male": 1.61,
+            "Students with Disabilities": 0.0,
+            "Two or More Races": 2.0,
+            "White": 0.58
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 23.5,
+          "disability_pct": 16.4,
+          "ell_pct": 3.1,
+          "white_pct": 36.1,
+          "hispanic_pct": 27.0,
+          "black_pct": 23.7,
+          "asian_pct": 2.9,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 10.3,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 8.5
+        }
+      }
+    },
+    "130": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 59.0,
+            "Black": 58.0,
+            "Hispanic": 49.0,
+            "Economically Disadvantaged": 50.0
+          },
+          "math_prof": {
+            "Schoolwide": 62.0,
+            "Black": 57.0,
+            "Hispanic": 57.0,
+            "Economically Disadvantaged": 59.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 3.6
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 8.0,
+          "econ_disadvantaged_pct": 66.0,
+          "ell_pct": 9.0,
+          "white_pct": 9.9,
+          "hispanic_pct": 48.5,
+          "black_pct": 34.2,
+          "asian_pct": 3.0,
+          "two_or_more_pct": 4.4
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 55.6,
+            "Economically Disadvantaged": 55.4,
+            "English Learners": 42.9,
+            "Female": 70.5,
+            "Hispanic": 60.7,
+            "Male": 54.2,
+            "Non-Economically Disadvantaged": 73.4,
+            "Non-English Learners (general ed)": 66.2,
+            "Schoolwide": 62.1,
+            "Students with Disabilities": 31.8,
+            "Students without Disabilities (general ed)": 66.9,
+            "White": 73.3
+          },
+          "math_prof": {
+            "Black": 55.5,
+            "Economically Disadvantaged": 54.9,
+            "English Learners": 44.8,
+            "Female": 60.2,
+            "Hispanic": 62.2,
+            "Male": 64.3,
+            "Non-Economically Disadvantaged": 75.0,
+            "Non-English Learners (general ed)": 66.1,
+            "Schoolwide": 62.3,
+            "Students with Disabilities": 31.8,
+            "Students without Disabilities (general ed)": 67.1,
+            "White": 73.3
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 8.0,
+          "econ_disadvantaged_pct": 59.8,
+          "ell_pct": 5.0,
+          "asian_pct": 3.0,
+          "black_pct": 32.0,
+          "hispanic_pct": 49.1,
+          "pacific_islander_pct": 0.6,
+          "two_or_more_pct": 6.2,
+          "white_pct": 9.2,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 11.7
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 62.5,
+            "Economically Disadvantaged": 55.1,
+            "Non-Economically Disadvantaged": 75.0,
+            "Students without Disabilities (general ed)": 66.6,
+            "Students with Disabilities": 21.1,
+            "English Learners": 42.3,
+            "Female": 70.8,
+            "Hispanic": 57.2,
+            "Male": 52.8,
+            "Schoolwide": 61.8,
+            "Non-English Learners (general ed)": 65.1,
+            "White": 70.0
+          },
+          "math_prof": {
+            "Black": 50.0,
+            "Economically Disadvantaged": 55.9,
+            "Non-Economically Disadvantaged": 62.3,
+            "Students without Disabilities (general ed)": 61.9,
+            "Students with Disabilities": 26.3,
+            "Female": 59.5,
+            "English Learners": 44.4,
+            "Hispanic": 59.3,
+            "Male": 56.7,
+            "Non-English Learners (general ed)": 60.5,
+            "Schoolwide": 58.1,
+            "White": 81.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 4.1,
+            "White": 3.4,
+            "Hispanic": 6.0,
+            "Black": 2.5,
+            "Economically Disadvantaged": 5.7,
+            "Students with Disabilities": 8.8,
+            "English Learners": 8.7
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 61.0,
+          "disability_pct": 9.1,
+          "ell_pct": 6.7,
+          "white_pct": 8.5,
+          "hispanic_pct": 48.4,
+          "black_pct": 34.3,
+          "asian_pct": 1.8,
+          "pacific_islander_pct": 0.9,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.2,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 13.9
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "White": 76.9,
+            "Students without Disabilities (general ed)": 62.7,
+            "Students with Disabilities": 25.8,
+            "Schoolwide": 56.5,
+            "Non-English Learners (general ed)": 62.6,
+            "Non-Economically Disadvantaged": 71.4,
+            "Male": 49.0,
+            "Hispanic": 52.7,
+            "Female": 65.1,
+            "English Learners": 24.1,
+            "Economically Disadvantaged": 48.8,
+            "Black": 58.6
+          },
+          "math_prof": {
+            "White": 76.9,
+            "Students without Disabilities (general ed)": 53.9,
+            "Students with Disabilities": 12.9,
+            "Schoolwide": 47.0,
+            "Non-English Learners (general ed)": 50.3,
+            "Non-Economically Disadvantaged": 65.1,
+            "Male": 49.5,
+            "Hispanic": 45.7,
+            "Female": 44.2,
+            "English Learners": 30.0,
+            "Economically Disadvantaged": 37.7,
+            "Black": 44.3
+          },
+          "chronic_absent": {
+            "Schoolwide": 8.2,
+            "White": 3.6,
+            "Hispanic": 10.5,
+            "Black": 4.8,
+            "Female": 6.0,
+            "Male": 10.4,
+            "Economically Disadvantaged": 9.1,
+            "Students with Disabilities": 15.2,
+            "English Learners": 3.3
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 58.7,
+          "disability_pct": 12.1,
+          "ell_pct": 7.7,
+          "white_pct": 7.7,
+          "hispanic_pct": 50.1,
+          "black_pct": 34.5,
+          "asian_pct": 0.9,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.2,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 13.6
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {},
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 59.1,
+          "disability_pct": 10.5,
+          "ell_pct": 8.7,
+          "white_pct": 9.0,
+          "hispanic_pct": 49.5,
+          "black_pct": 32.8,
+          "asian_pct": 0.6,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.4,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 12.9
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 7.9,
+            "White": 0.0,
+            "Hispanic": 9.4,
+            "Black": 7.1,
+            "Two or More Races": 11.5,
+            "Female": 4.8,
+            "Male": 11.3,
+            "Economically Disadvantaged": 6.2,
+            "Students with Disabilities": 20.9,
+            "English Learners": 8.0
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 51.4,
+          "disability_pct": 11.6,
+          "ell_pct": 7.7,
+          "white_pct": 9.0,
+          "hispanic_pct": 50.2,
+          "black_pct": 31.5,
+          "asian_pct": 0.6,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 8.0,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 14.0
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 46.6,
+            "White": 80.0,
+            "Hispanic": 40.5,
+            "Black": 45.0,
+            "Two or More Races": 63.6,
+            "Female": 48.4,
+            "Male": 43.9,
+            "Economically Disadvantaged": 36.1,
+            "Non-Economically Disadvantaged": 55.1,
+            "Students with Disabilities": 12.0,
+            "Students without Disabilities (general ed)": 52.9,
+            "English Learners": 16.7,
+            "Non-English Learners (general ed)": 49.0
+          },
+          "math_prof": {
+            "Schoolwide": 37.7,
+            "White": 70.0,
+            "Hispanic": 32.5,
+            "Black": 31.7,
+            "Two or More Races": 72.7,
+            "Female": 34.4,
+            "Male": 42.4,
+            "Economically Disadvantaged": 31.9,
+            "Non-Economically Disadvantaged": 42.2,
+            "Students without Disabilities (general ed)": 43.1,
+            "Non-English Learners (general ed)": 40.9
+          },
+          "chronic_absent": {
+            "Schoolwide": 16.8,
+            "White": 24.1,
+            "Hispanic": 14.6,
+            "Black": 18.4,
+            "Two or More Races": 16.0,
+            "Female": 19.8,
+            "Male": 13.2,
+            "Economically Disadvantaged": 21.8,
+            "Students with Disabilities": 21.4,
+            "English Learners": 2.9
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 46.8,
+          "disability_pct": 9.5,
+          "ell_pct": 10.5,
+          "white_pct": 8.3,
+          "hispanic_pct": 50.5,
+          "black_pct": 32.9,
+          "asian_pct": 0.3,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.7,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 14.4
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 57.5,
+            "White": 83.3,
+            "Hispanic": 51.6,
+            "Black": 55.0,
+            "Two or More Races": 90.0,
+            "Female": 58.2,
+            "Male": 56.6,
+            "Economically Disadvantaged": 35.6,
+            "Non-Economically Disadvantaged": 79.3,
+            "Students with Disabilities": 13.9,
+            "Students without Disabilities (general ed)": 68.8,
+            "English Learners": 33.3,
+            "Non-English Learners (general ed)": 61.3
+          },
+          "math_prof": {
+            "Schoolwide": 45.5,
+            "White": 91.7,
+            "Hispanic": 35.5,
+            "Black": 43.3,
+            "Two or More Races": 90.0,
+            "Female": 41.4,
+            "Male": 50.6,
+            "Economically Disadvantaged": 29.5,
+            "Non-Economically Disadvantaged": 61.4,
+            "Students without Disabilities (general ed)": 55.0,
+            "English Learners": 30.8,
+            "Non-English Learners (general ed)": 48.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 18.7,
+            "White": 13.5,
+            "Hispanic": 26.0,
+            "Black": 10.5,
+            "Two or More Races": 13.0,
+            "Female": 20.7,
+            "Male": 16.6,
+            "Economically Disadvantaged": 23.3,
+            "Students with Disabilities": 20.9,
+            "English Learners": 15.4
+          },
+          "oss_pct": {
+            "Schoolwide": 2.1
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 58.6,
+          "disability_pct": 10.7,
+          "ell_pct": 12.5,
+          "white_pct": 10.4,
+          "hispanic_pct": 49.7,
+          "black_pct": 31.8,
+          "asian_pct": 0.6,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.1,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 15.0
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 62.1,
+            "White": 95.0,
+            "Hispanic": 59.8,
+            "Black": 51.0,
+            "Two or More Races": 68.8,
+            "Female": 66.3,
+            "Male": 57.6,
+            "Economically Disadvantaged": 56.5,
+            "Non-Economically Disadvantaged": 67.3,
+            "Students with Disabilities": 17.1,
+            "Students without Disabilities (general ed)": 74.5,
+            "English Learners": 54.3,
+            "Non-English Learners (general ed)": 63.9
+          },
+          "math_prof": {
+            "Schoolwide": 48.7,
+            "White": 75.0,
+            "Hispanic": 44.7,
+            "Black": 36.5,
+            "Two or More Races": 76.5,
+            "Female": 44.4,
+            "Male": 53.2,
+            "Economically Disadvantaged": 37.6,
+            "Non-Economically Disadvantaged": 59.0,
+            "Students with Disabilities": 12.2,
+            "Students without Disabilities (general ed)": 58.6,
+            "English Learners": 48.6,
+            "Non-English Learners (general ed)": 48.7
+          },
+          "chronic_absent": {
+            "Schoolwide": 15.0,
+            "White": 9.1,
+            "Hispanic": 19.0,
+            "Black": 13.3,
+            "Two or More Races": 4.0,
+            "Female": 16.7,
+            "Male": 13.4,
+            "Economically Disadvantaged": 15.0,
+            "Students with Disabilities": 24.7,
+            "English Learners": 14.8
+          },
+          "oss_pct": {
+            "Schoolwide": 0.28
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 63.9,
+          "disability_pct": 13.6,
+          "ell_pct": 14.5,
+          "white_pct": 11.5,
+          "hispanic_pct": 50.9,
+          "black_pct": 29.6,
+          "asian_pct": 0.6,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.3,
+          "two_or_more_pct": 7.1,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 15.4
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 56.4,
+            "Black": 45.5,
+            "Economically Disadvantaged": 50.0,
+            "Female": 59.6,
+            "Hispanic": 47.9,
+            "Male": 52.7,
+            "English Learners": 45.9,
+            "Non-Economically Disadvantaged": 66.7,
+            "Non-English Learners (general ed)": 58.9,
+            "Students with Disabilities": 19.1,
+            "Students without Disabilities (general ed)": 68.8,
+            "Two or More Races": 92.9,
+            "White": 95.5
+          },
+          "math_prof": {
+            "Schoolwide": 46.6,
+            "Black": 38.2,
+            "Economically Disadvantaged": 40.5,
+            "Female": 42.1,
+            "Hispanic": 42.3,
+            "Male": 51.6,
+            "English Learners": 42.1,
+            "Non-Economically Disadvantaged": 56.2,
+            "Non-English Learners (general ed)": 47.7,
+            "Students with Disabilities": 21.3,
+            "Students without Disabilities (general ed)": 54.9,
+            "Two or More Races": 50.0,
+            "White": 81.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 15.4,
+            "Black": 17.6,
+            "Economically Disadvantaged": 16.0,
+            "Female": 14.8,
+            "Hispanic": 16.9,
+            "Male": 16.0,
+            "English Learners": 10.1,
+            "Students with Disabilities": 23.3,
+            "Two or More Races": 9.5,
+            "White": 8.9
+          },
+          "oss_pct": {
+            "Schoolwide": 0.85
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 62.5,
+          "disability_pct": 11.8,
+          "ell_pct": 17.7,
+          "white_pct": 15.0,
+          "hispanic_pct": 49.0,
+          "black_pct": 28.6,
+          "asian_pct": 0.6,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.3,
+          "two_or_more_pct": 6.5,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 15.0
+        }
+      }
+    },
+    "135": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 68.0,
+            "White": 81.0,
+            "Black": 62.0,
+            "Hispanic": 60.0,
+            "Asian": 98.0,
+            "Students with Disabilities": 27.0,
+            "Economically Disadvantaged": 56.0
+          },
+          "math_prof": {
+            "Schoolwide": 47.0,
+            "White": 67.0,
+            "Black": 38.0,
+            "Hispanic": 35.0,
+            "Asian": 86.0,
+            "Students with Disabilities": 16.0,
+            "Economically Disadvantaged": 32.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 2.8
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 16.0,
+          "econ_disadvantaged_pct": 47.0,
+          "ell_pct": 3.0,
+          "white_pct": 19.2,
+          "hispanic_pct": 28.9,
+          "black_pct": 41.9,
+          "asian_pct": 8.4,
+          "pacific_islander_pct": 0.4,
+          "two_or_more_pct": 1.2
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 89.5,
+            "Black": 68.5,
+            "Economically Disadvantaged": 55.2,
+            "English Learners": 26.9,
+            "Female": 76.8,
+            "Hispanic": 47.9,
+            "Male": 57.9,
+            "Non-Economically Disadvantaged": 77.3,
+            "Non-English Learners (general ed)": 69.4,
+            "Schoolwide": 67.1,
+            "Students with Disabilities": 23.6,
+            "Students without Disabilities (general ed)": 76.8,
+            "Two or More Races": 76.9,
+            "White": 82.3
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 79.0,
+            "Black": 38.7,
+            "Economically Disadvantaged": 32.0,
+            "English Learners": 11.1,
+            "Female": 50.8,
+            "Hispanic": 32.6,
+            "Male": 42.8,
+            "Non-Economically Disadvantaged": 59.4,
+            "Non-English Learners (general ed)": 48.9,
+            "Schoolwide": 46.8,
+            "Students with Disabilities": 14.6,
+            "Students without Disabilities (general ed)": 53.9,
+            "Two or More Races": 38.5,
+            "White": 71.5
+          },
+          "oss_pct": {
+            "Schoolwide": 3.5
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 17.7,
+          "econ_disadvantaged_pct": 46.6,
+          "ell_pct": 2.8,
+          "asian_pct": 7.1,
+          "black_pct": 40.4,
+          "hispanic_pct": 29.6,
+          "pacific_islander_pct": 0.2,
+          "two_or_more_pct": 2.6,
+          "white_pct": 20.1,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 10.9
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 83.4,
+            "Black": 62.7,
+            "Economically Disadvantaged": 55.7,
+            "Non-Economically Disadvantaged": 75.2,
+            "Students with Disabilities": 20.5,
+            "Students without Disabilities (general ed)": 75.7,
+            "Two or More Races": 78.3,
+            "Female": 74.6,
+            "English Learners": 31.0,
+            "Hispanic": 60.7,
+            "Male": 57.6,
+            "Non-English Learners (general ed)": 68.1,
+            "Schoolwide": 66.0,
+            "White": 75.6
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 69.5,
+            "Black": 41.5,
+            "Economically Disadvantaged": 33.1,
+            "Non-Economically Disadvantaged": 57.7,
+            "Two or More Races": 47.8,
+            "English Learners": 20.0,
+            "Female": 51.4,
+            "Hispanic": 38.1,
+            "Male": 40.7,
+            "Schoolwide": 45.9,
+            "Non-English Learners (general ed)": 47.6,
+            "White": 65.4
+          },
+          "chronic_absent": {
+            "Schoolwide": 7.0,
+            "White": 9.1,
+            "Hispanic": 8.4,
+            "Black": 4.0,
+            "Asian/Pacific Islander (combined)": 7.7,
+            "Two or More Races": 15.4,
+            "Economically Disadvantaged": 10.0,
+            "Students with Disabilities": 10.4,
+            "English Learners": 7.1
+          },
+          "oss_pct": {
+            "Schoolwide": 4.4
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 47.2,
+          "disability_pct": 17.3,
+          "ell_pct": 2.7,
+          "white_pct": 16.4,
+          "hispanic_pct": 31.6,
+          "black_pct": 42.3,
+          "asian_pct": 4.4,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 4.8,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 11.5
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 59.7,
+            "Economically Disadvantaged": 48.7,
+            "English Learners": 38.9,
+            "Female": 70.4,
+            "Hispanic": 51.9,
+            "Male": 54.8,
+            "Non-Economically Disadvantaged": 73.7,
+            "Non-English Learners (general ed)": 63.0,
+            "Schoolwide": 62.1,
+            "Students with Disabilities": 15.1,
+            "Students without Disabilities (general ed)": 72.6,
+            "Two or More Races": 85.2,
+            "White": 73.8
+          },
+          "math_prof": {
+            "Black": 31.0,
+            "Economically Disadvantaged": 26.8,
+            "English Learners": 10.0,
+            "Female": 40.7,
+            "Hispanic": 36.8,
+            "Male": 38.1,
+            "Non-Economically Disadvantaged": 50.2,
+            "Non-English Learners (general ed)": 40.5,
+            "Schoolwide": 39.3,
+            "Two or More Races": 59.3,
+            "White": 52.4
+          },
+          "chronic_absent": {
+            "Schoolwide": 9.2,
+            "White": 12.6,
+            "Hispanic": 9.8,
+            "Black": 7.0,
+            "Two or More Races": 14.8,
+            "Female": 7.0,
+            "Male": 11.2,
+            "Economically Disadvantaged": 10.5,
+            "Students with Disabilities": 24.5,
+            "English Learners": 10.0
+          },
+          "oss_pct": {
+            "Schoolwide": 4.3
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 46.2,
+          "disability_pct": 16.9,
+          "ell_pct": 2.1,
+          "white_pct": 15.4,
+          "hispanic_pct": 32.5,
+          "black_pct": 42.2,
+          "asian_pct": 3.9,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.4,
+          "two_or_more_pct": 5.1,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 11.4
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {
+          "oss_pct": {
+            "Schoolwide": 1.9
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 43.9,
+          "disability_pct": 15.9,
+          "ell_pct": 2.0,
+          "white_pct": 15.6,
+          "hispanic_pct": 35.2,
+          "black_pct": 37.2,
+          "asian_pct": 5.6,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.4,
+          "two_or_more_pct": 5.7,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 11.7
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 3.2,
+            "White": 3.9,
+            "Hispanic": 2.6,
+            "Black": 4.5,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 0.0,
+            "Female": 2.2,
+            "Male": 4.0,
+            "Economically Disadvantaged": 4.0,
+            "Students with Disabilities": 11.7,
+            "English Learners": 0.0
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 39.9,
+          "disability_pct": 15.7,
+          "ell_pct": 2.9,
+          "white_pct": 17.9,
+          "hispanic_pct": 35.2,
+          "black_pct": 34.5,
+          "asian_pct": 6.0,
+          "pacific_islander_pct": 0.5,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.0,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 12.0
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 58.9,
+            "White": 76.1,
+            "Hispanic": 51.9,
+            "Black": 52.7,
+            "Asian/Pacific Islander (combined)": 80.8,
+            "Two or More Races": 83.3,
+            "Female": 65.4,
+            "Male": 52.6,
+            "Economically Disadvantaged": 43.1,
+            "Non-Economically Disadvantaged": 68.5,
+            "Students with Disabilities": 22.3,
+            "Students without Disabilities (general ed)": 66.3,
+            "English Learners": 23.3,
+            "Non-English Learners (general ed)": 60.9
+          },
+          "math_prof": {
+            "Schoolwide": 29.4,
+            "White": 46.7,
+            "Hispanic": 21.6,
+            "Black": 24.1,
+            "Asian/Pacific Islander (combined)": 55.6,
+            "Two or More Races": 50.0,
+            "Female": 26.8,
+            "Male": 31.7,
+            "Economically Disadvantaged": 16.5,
+            "Non-Economically Disadvantaged": 37.2,
+            "Students without Disabilities (general ed)": 34.3,
+            "English Learners": 16.7,
+            "Non-English Learners (general ed)": 30.3
+          },
+          "chronic_absent": {
+            "Schoolwide": 18.7,
+            "White": 19.6,
+            "Hispanic": 23.5,
+            "Black": 15.1,
+            "Asian/Pacific Islander (combined)": 7.4,
+            "Two or More Races": 14.8,
+            "Female": 18.9,
+            "Male": 18.4,
+            "Economically Disadvantaged": 24.5,
+            "Students with Disabilities": 26.5,
+            "English Learners": 11.8
+          },
+          "oss_pct": {
+            "Schoolwide": 6.8
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 45.7,
+          "disability_pct": 15.8,
+          "ell_pct": 3.2,
+          "white_pct": 16.1,
+          "hispanic_pct": 39.8,
+          "black_pct": 35.0,
+          "asian_pct": 4.6,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 4.4,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 11.7
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 62.4,
+            "White": 86.2,
+            "Hispanic": 52.0,
+            "Black": 60.7,
+            "Asian/Pacific Islander (combined)": 78.6,
+            "Two or More Races": 70.8,
+            "Female": 70.2,
+            "Male": 54.7,
+            "Economically Disadvantaged": 51.0,
+            "Non-Economically Disadvantaged": 69.1,
+            "Students with Disabilities": 25.0,
+            "Students without Disabilities (general ed)": 71.7,
+            "English Learners": 22.6,
+            "Non-English Learners (general ed)": 64.9
+          },
+          "math_prof": {
+            "Schoolwide": 34.3,
+            "White": 47.7,
+            "Hispanic": 23.9,
+            "Black": 31.7,
+            "Asian/Pacific Islander (combined)": 67.9,
+            "Two or More Races": 58.3,
+            "Female": 35.3,
+            "Male": 33.1,
+            "Economically Disadvantaged": 24.6,
+            "Non-Economically Disadvantaged": 40.1,
+            "Students with Disabilities": 11.5,
+            "Students without Disabilities (general ed)": 40.0,
+            "English Learners": 15.6,
+            "Non-English Learners (general ed)": 35.5
+          },
+          "chronic_absent": {
+            "Schoolwide": 16.3,
+            "White": 20.0,
+            "Hispanic": 18.2,
+            "Black": 15.5,
+            "Asian/Pacific Islander (combined)": 3.6,
+            "Two or More Races": 16.0,
+            "Female": 16.0,
+            "Male": 16.7,
+            "Economically Disadvantaged": 20.5,
+            "Students with Disabilities": 22.7,
+            "English Learners": 0.0
+          },
+          "oss_pct": {
+            "Schoolwide": 7.8
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 41.3,
+          "disability_pct": 19.5,
+          "ell_pct": 3.2,
+          "white_pct": 11.9,
+          "hispanic_pct": 35.0,
+          "black_pct": 43.0,
+          "asian_pct": 4.9,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 4.5,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 12.4
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 53.8,
+            "White": 72.2,
+            "Hispanic": 43.3,
+            "Black": 54.5,
+            "Asian/Pacific Islander (combined)": 64.0,
+            "Two or More Races": 59.4,
+            "Female": 60.4,
+            "Male": 47.8,
+            "Economically Disadvantaged": 38.9,
+            "Non-Economically Disadvantaged": 61.4,
+            "Students with Disabilities": 18.9,
+            "Students without Disabilities (general ed)": 62.8,
+            "English Learners": 22.4,
+            "Non-English Learners (general ed)": 57.1
+          },
+          "math_prof": {
+            "Schoolwide": 40.0,
+            "White": 64.4,
+            "Hispanic": 32.2,
+            "Black": 33.2,
+            "Asian/Pacific Islander (combined)": 56.0,
+            "Two or More Races": 62.5,
+            "Female": 38.8,
+            "Male": 40.9,
+            "Economically Disadvantaged": 23.6,
+            "Non-Economically Disadvantaged": 48.7,
+            "Students with Disabilities": 13.3,
+            "Students without Disabilities (general ed)": 46.7,
+            "English Learners": 17.9,
+            "Non-English Learners (general ed)": 42.7
+          },
+          "chronic_absent": {
+            "Schoolwide": 8.2,
+            "White": 12.5,
+            "Hispanic": 9.2,
+            "Black": 5.0,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 20.6,
+            "Female": 9.1,
+            "Male": 7.4,
+            "Economically Disadvantaged": 10.8,
+            "Students with Disabilities": 11.1,
+            "English Learners": 10.0
+          },
+          "oss_pct": {
+            "Asian": 0.0,
+            "Black": 9.4,
+            "Economically Disadvantaged": 7.28,
+            "Female": 3.37,
+            "Hispanic": 4.69,
+            "Male": 8.84,
+            "Schoolwide": 6.94,
+            "Students with Disabilities": 10.34,
+            "Two or More Races": 0.0,
+            "White": 5.33
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 39.7,
+          "disability_pct": 19.7,
+          "ell_pct": 5.8,
+          "white_pct": 13.6,
+          "hispanic_pct": 34.5,
+          "black_pct": 40.6,
+          "asian_pct": 3.9,
+          "pacific_islander_pct": 0.9,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 6.3,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 12.1
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 60.3,
+            "Asian/Pacific Islander (combined)": 65.0,
+            "Black": 65.9,
+            "Economically Disadvantaged": 48.3,
+            "Female": 65.7,
+            "Hispanic": 47.4,
+            "Male": 55.6,
+            "English Learners": 21.5,
+            "Non-Economically Disadvantaged": 70.5,
+            "Non-English Learners (general ed)": 65.3,
+            "Students with Disabilities": 24.4,
+            "Students without Disabilities (general ed)": 69.8,
+            "Two or More Races": 75.0,
+            "White": 71.6
+          },
+          "math_prof": {
+            "Schoolwide": 42.3,
+            "Asian/Pacific Islander (combined)": 60.0,
+            "Black": 40.8,
+            "Economically Disadvantaged": 29.4,
+            "Female": 41.7,
+            "Hispanic": 34.1,
+            "Male": 42.8,
+            "English Learners": 24.2,
+            "Non-Economically Disadvantaged": 53.2,
+            "Non-English Learners (general ed)": 44.6,
+            "Students with Disabilities": 14.3,
+            "Students without Disabilities (general ed)": 49.7,
+            "Two or More Races": 50.0,
+            "White": 62.2
+          },
+          "chronic_absent": {
+            "Schoolwide": 13.6,
+            "Asian/Pacific Islander (combined)": 19.0,
+            "Black": 8.8,
+            "Economically Disadvantaged": 15.9,
+            "Female": 14.9,
+            "Hispanic": 14.4,
+            "Male": 12.5,
+            "English Learners": 22.2,
+            "Students with Disabilities": 19.3,
+            "Two or More Races": 24.3,
+            "White": 18.9
+          },
+          "oss_pct": {
+            "Schoolwide": 7.21,
+            "Black": 7.85,
+            "Economically Disadvantaged": 8.58,
+            "Female": 4.8,
+            "Hispanic": 6.31,
+            "Male": 8.92,
+            "Students with Disabilities": 9.82,
+            "Two or More Races": 5.13,
+            "White": 9.33
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 46.6,
+          "disability_pct": 18.3,
+          "ell_pct": 6.2,
+          "white_pct": 13.2,
+          "hispanic_pct": 37.4,
+          "black_pct": 39.9,
+          "asian_pct": 2.7,
+          "pacific_islander_pct": 0.5,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.4,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 12.8
+        }
+      }
+    },
+    "140": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 65.0,
+            "White": 81.0,
+            "Black": 52.0,
+            "Hispanic": 54.0,
+            "Economically Disadvantaged": 43.0
+          },
+          "math_prof": {
+            "Schoolwide": 62.0,
+            "White": 72.0,
+            "Black": 50.0,
+            "Hispanic": 50.0,
+            "Economically Disadvantaged": 36.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 0.5
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 12.0,
+          "econ_disadvantaged_pct": 27.0,
+          "ell_pct": 2.0,
+          "white_pct": 24.3,
+          "hispanic_pct": 27.2,
+          "black_pct": 32.0,
+          "asian_pct": 10.3,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.8,
+          "two_or_more_pct": 5.0
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 86.4,
+            "Black": 60.4,
+            "Economically Disadvantaged": 54.7,
+            "Female": 75.6,
+            "Hispanic": 70.9,
+            "Male": 68.3,
+            "Non-Economically Disadvantaged": 77.8,
+            "Schoolwide": 72.0,
+            "Students with Disabilities": 34.8,
+            "Students without Disabilities (general ed)": 77.9,
+            "White": 78.6
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 86.4,
+            "Black": 58.4,
+            "Economically Disadvantaged": 35.7,
+            "Female": 65.1,
+            "Hispanic": 52.1,
+            "Male": 68.3,
+            "Non-Economically Disadvantaged": 77.0,
+            "Schoolwide": 66.7,
+            "Students with Disabilities": 34.8,
+            "Students without Disabilities (general ed)": 71.7,
+            "White": 78.6
+          },
+          "oss_pct": {
+            "Schoolwide": 2.2
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 13.5,
+          "econ_disadvantaged_pct": 25.4,
+          "ell_pct": 3.0,
+          "native_american_pct": 0.3,
+          "asian_pct": 10.2,
+          "black_pct": 34.3,
+          "hispanic_pct": 27.1,
+          "pacific_islander_pct": 0.3,
+          "two_or_more_pct": 5.8,
+          "white_pct": 22.1,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 13.2
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 61.9,
+            "Economically Disadvantaged": 68.6,
+            "Non-Economically Disadvantaged": 73.2,
+            "Students without Disabilities (general ed)": 76.1,
+            "Students with Disabilities": 46.1,
+            "Female": 71.4,
+            "Hispanic": 66.7,
+            "Male": 72.1,
+            "Schoolwide": 71.9,
+            "White": 81.6
+          },
+          "math_prof": {
+            "Black": 65.1,
+            "Economically Disadvantaged": 59.3,
+            "Non-Economically Disadvantaged": 75.6,
+            "Students without Disabilities (general ed)": 74.9,
+            "Students with Disabilities": 46.2,
+            "Female": 70.2,
+            "Hispanic": 61.1,
+            "Male": 71.1,
+            "Schoolwide": 70.7,
+            "White": 76.3
+          },
+          "chronic_absent": {
+            "Schoolwide": 1.1,
+            "White": 1.3,
+            "Hispanic": 2.9,
+            "Black": 0.0,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 0.0,
+            "Economically Disadvantaged": 0.0,
+            "Students with Disabilities": 2.1,
+            "English Learners": 0.0
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 24.9,
+          "disability_pct": 12.3,
+          "ell_pct": 4.3,
+          "white_pct": 21.4,
+          "hispanic_pct": 28.9,
+          "black_pct": 34.0,
+          "asian_pct": 10.3,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 5.1,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 14.6
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "White": 80.6,
+            "Students without Disabilities (general ed)": 79.5,
+            "Students with Disabilities": 42.3,
+            "Schoolwide": 74.0,
+            "Non-Economically Disadvantaged": 78.2,
+            "Male": 70.0,
+            "Hispanic": 65.5,
+            "Female": 79.2,
+            "Economically Disadvantaged": 64.2,
+            "Black": 74.6
+          },
+          "math_prof": {
+            "White": 87.1,
+            "Students without Disabilities (general ed)": 76.6,
+            "Students with Disabilities": 44.4,
+            "Schoolwide": 71.8,
+            "Non-English Learners (general ed)": 72.8,
+            "Non-Economically Disadvantaged": 78.9,
+            "Male": 75.5,
+            "Hispanic": 57.9,
+            "Female": 67.1,
+            "English Learners": 58.3,
+            "Economically Disadvantaged": 54.7,
+            "Black": 73.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 4.9,
+            "White": 8.6,
+            "Hispanic": 6.0,
+            "Black": 4.2,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 0.0,
+            "Female": 4.7,
+            "Male": 5.1,
+            "Economically Disadvantaged": 7.0,
+            "Students with Disabilities": 11.7,
+            "English Learners": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 25.0,
+          "disability_pct": 10.5,
+          "ell_pct": 5.2,
+          "white_pct": 19.2,
+          "hispanic_pct": 30.8,
+          "black_pct": 33.1,
+          "asian_pct": 9.0,
+          "pacific_islander_pct": 1.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.7,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 13.0
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {},
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 24.3,
+          "disability_pct": 8.3,
+          "ell_pct": 7.1,
+          "white_pct": 15.4,
+          "hispanic_pct": 33.1,
+          "black_pct": 33.4,
+          "asian_pct": 10.6,
+          "pacific_islander_pct": 0.9,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.6,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 14.2
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 3.2,
+            "White": 4.0,
+            "Hispanic": 1.8,
+            "Black": 4.8,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 4.2,
+            "Female": 2.3,
+            "Male": 4.1,
+            "Economically Disadvantaged": 5.1,
+            "Students with Disabilities": 8.3,
+            "English Learners": 4.3
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 22.1,
+          "disability_pct": 9.9,
+          "ell_pct": 6.7,
+          "white_pct": 14.5,
+          "hispanic_pct": 32.3,
+          "black_pct": 35.8,
+          "asian_pct": 9.6,
+          "pacific_islander_pct": 0.9,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.0,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 14.2
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 65.8,
+            "White": 73.5,
+            "Hispanic": 45.9,
+            "Black": 76.6,
+            "Asian/Pacific Islander (combined)": 72.7,
+            "Two or More Races": 78.6,
+            "Female": 67.7,
+            "Male": 63.6,
+            "Economically Disadvantaged": 48.6,
+            "Non-Economically Disadvantaged": 69.8,
+            "Students with Disabilities": 25.0,
+            "Students without Disabilities (general ed)": 70.7,
+            "English Learners": 36.4,
+            "Non-English Learners (general ed)": 67.6
+          },
+          "math_prof": {
+            "Schoolwide": 57.5,
+            "White": 67.6,
+            "Hispanic": 39.7,
+            "Black": 62.5,
+            "Asian/Pacific Islander (combined)": 72.7,
+            "Two or More Races": 78.6,
+            "Female": 60.4,
+            "Male": 54.4,
+            "Economically Disadvantaged": 37.1,
+            "Non-Economically Disadvantaged": 62.3,
+            "Students with Disabilities": 20.0,
+            "Students without Disabilities (general ed)": 62.0,
+            "English Learners": 23.1,
+            "Non-English Learners (general ed)": 60.1
+          },
+          "chronic_absent": {
+            "Schoolwide": 8.7,
+            "White": 9.8,
+            "Hispanic": 10.8,
+            "Black": 6.1,
+            "Asian/Pacific Islander (combined)": 3.0,
+            "Two or More Races": 14.3,
+            "Female": 7.0,
+            "Male": 10.3,
+            "Economically Disadvantaged": 11.9,
+            "Students with Disabilities": 15.9,
+            "English Learners": 3.3
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 18.8,
+          "disability_pct": 10.6,
+          "ell_pct": 8.7,
+          "white_pct": 16.8,
+          "hispanic_pct": 34.5,
+          "black_pct": 31.9,
+          "asian_pct": 8.7,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.6,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 12.6
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 69.0,
+            "White": 84.0,
+            "Hispanic": 60.0,
+            "Black": 72.2,
+            "Asian/Pacific Islander (combined)": 71.4,
+            "Two or More Races": 69.2,
+            "Female": 81.0,
+            "Male": 57.5,
+            "Economically Disadvantaged": 57.1,
+            "Non-Economically Disadvantaged": 72.9,
+            "Students with Disabilities": 36.0,
+            "Students without Disabilities (general ed)": 74.7,
+            "English Learners": 10.0,
+            "Non-English Learners (general ed)": 72.7
+          },
+          "math_prof": {
+            "Schoolwide": 64.3,
+            "White": 88.0,
+            "Hispanic": 49.2,
+            "Black": 72.2,
+            "Asian/Pacific Islander (combined)": 71.4,
+            "Two or More Races": 53.8,
+            "Female": 64.3,
+            "Male": 64.4,
+            "Economically Disadvantaged": 42.9,
+            "Non-Economically Disadvantaged": 71.3,
+            "Students with Disabilities": 24.0,
+            "Students without Disabilities (general ed)": 71.2,
+            "English Learners": 10.0,
+            "Non-English Learners (general ed)": 67.7
+          },
+          "chronic_absent": {
+            "Schoolwide": 15.7,
+            "White": 19.0,
+            "Hispanic": 18.5,
+            "Black": 11.7,
+            "Asian/Pacific Islander (combined)": 10.0,
+            "Two or More Races": 18.5,
+            "Female": 13.8,
+            "Male": 17.4,
+            "Economically Disadvantaged": 20.0,
+            "Students with Disabilities": 21.8,
+            "English Learners": 8.3
+          },
+          "oss_pct": {
+            "Schoolwide": 0.9
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 27.6,
+          "disability_pct": 15.7,
+          "ell_pct": 6.8,
+          "white_pct": 17.1,
+          "hispanic_pct": 35.6,
+          "black_pct": 30.8,
+          "asian_pct": 8.5,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.7,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 13.4
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 67.6,
+            "White": 77.8,
+            "Hispanic": 60.9,
+            "Black": 71.7,
+            "Asian/Pacific Islander (combined)": 70.6,
+            "Female": 79.8,
+            "Male": 55.9,
+            "Economically Disadvantaged": 63.3,
+            "Non-Economically Disadvantaged": 69.2,
+            "Students with Disabilities": 30.8,
+            "Students without Disabilities (general ed)": 77.6,
+            "English Learners": 25.0,
+            "Non-English Learners (general ed)": 72.8
+          },
+          "math_prof": {
+            "Schoolwide": 61.0,
+            "White": 85.2,
+            "Hispanic": 50.7,
+            "Black": 55.0,
+            "Asian/Pacific Islander (combined)": 82.4,
+            "Female": 61.8,
+            "Male": 60.2,
+            "Economically Disadvantaged": 57.1,
+            "Non-Economically Disadvantaged": 62.4,
+            "Students with Disabilities": 35.9,
+            "Students without Disabilities (general ed)": 67.8,
+            "English Learners": 40.0,
+            "Non-English Learners (general ed)": 63.6
+          },
+          "chronic_absent": {
+            "Schoolwide": 10.2,
+            "White": 16.4,
+            "Hispanic": 11.1,
+            "Black": 7.4,
+            "Asian/Pacific Islander (combined)": 6.5,
+            "Two or More Races": 7.7,
+            "Female": 10.1,
+            "Male": 10.2,
+            "Economically Disadvantaged": 12.9,
+            "Students with Disabilities": 10.7,
+            "English Learners": 6.3
+          },
+          "oss_pct": {
+            "Schoolwide": 0.54
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 30.3,
+          "disability_pct": 15.7,
+          "ell_pct": 9.3,
+          "white_pct": 16.0,
+          "hispanic_pct": 35.7,
+          "black_pct": 33.1,
+          "asian_pct": 8.4,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.5,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 11.7
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 75.3,
+            "Asian/Pacific Islander (combined)": 90.0,
+            "Black": 81.7,
+            "Economically Disadvantaged": 73.1,
+            "Female": 82.4,
+            "Hispanic": 63.8,
+            "Male": 70.2,
+            "English Learners": 52.0,
+            "Non-Economically Disadvantaged": 76.6,
+            "Non-English Learners (general ed)": 79.1,
+            "Students with Disabilities": 42.9,
+            "Students without Disabilities (general ed)": 85.3,
+            "Two or More Races": 75.0,
+            "White": 75.0
+          },
+          "math_prof": {
+            "Schoolwide": 69.7,
+            "Asian/Pacific Islander (combined)": 95.0,
+            "Black": 71.7,
+            "Economically Disadvantaged": 59.7,
+            "Female": 68.9,
+            "Hispanic": 53.4,
+            "Male": 70.2,
+            "English Learners": 44.0,
+            "Non-Economically Disadvantaged": 75.7,
+            "Non-English Learners (general ed)": 73.9,
+            "Students with Disabilities": 40.5,
+            "Students without Disabilities (general ed)": 78.7,
+            "Two or More Races": 83.3,
+            "White": 75.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 7.5,
+            "Asian/Pacific Islander (combined)": 3.2,
+            "Black": 8.4,
+            "Economically Disadvantaged": 7.9,
+            "Female": 8.1,
+            "Hispanic": 6.4,
+            "Male": 6.9,
+            "English Learners": 8.7,
+            "Students with Disabilities": 8.8,
+            "Two or More Races": 8.3,
+            "White": 9.2
+          },
+          "oss_pct": {
+            "Schoolwide": 0.8
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 35.6,
+          "disability_pct": 16.2,
+          "ell_pct": 7.1,
+          "white_pct": 17.7,
+          "hispanic_pct": 31.6,
+          "black_pct": 32.5,
+          "asian_pct": 8.3,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.3,
+          "two_or_more_pct": 9.7,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 11.8
+        }
+      }
+    },
+    "150": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 67.0,
+            "Black": 55.0,
+            "Hispanic": 62.0,
+            "Economically Disadvantaged": 57.0
+          },
+          "math_prof": {
+            "Schoolwide": 54.0,
+            "Black": 34.0,
+            "Hispanic": 50.0,
+            "Economically Disadvantaged": 43.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 4.5
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 36.0,
+          "econ_disadvantaged_pct": 41.0,
+          "ell_pct": 4.0,
+          "white_pct": 17.6,
+          "hispanic_pct": 37.6,
+          "black_pct": 33.6,
+          "asian_pct": 5.2,
+          "pacific_islander_pct": 0.2,
+          "two_or_more_pct": 5.9
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 53.7,
+            "Economically Disadvantaged": 52.2,
+            "Female": 65.7,
+            "Hispanic": 47.6,
+            "Male": 52.8,
+            "Non-Economically Disadvantaged": 63.7,
+            "Schoolwide": 58.8,
+            "Students with Disabilities": 19.5,
+            "Students without Disabilities (general ed)": 74.6,
+            "White": 79.3
+          },
+          "math_prof": {
+            "Black": 35.2,
+            "Economically Disadvantaged": 37.6,
+            "Female": 46.6,
+            "Hispanic": 41.2,
+            "Male": 47.1,
+            "Non-Economically Disadvantaged": 53.9,
+            "Schoolwide": 46.9,
+            "Students with Disabilities": 30.5,
+            "Students without Disabilities (general ed)": 53.5,
+            "White": 62.1
+          },
+          "oss_pct": {
+            "Schoolwide": 1.2
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 38.3,
+          "econ_disadvantaged_pct": 41.0,
+          "ell_pct": 2.9,
+          "asian_pct": 4.3,
+          "black_pct": 33.5,
+          "hispanic_pct": 38.7,
+          "pacific_islander_pct": 0.4,
+          "two_or_more_pct": 5.4,
+          "white_pct": 17.6,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 10.5
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 45.1,
+            "Economically Disadvantaged": 36.3,
+            "Non-Economically Disadvantaged": 64.6,
+            "Female": 67.5,
+            "English Learners": 53.3,
+            "Hispanic": 49.3,
+            "Male": 42.0,
+            "Non-English Learners (general ed)": 52.0,
+            "Schoolwide": 52.1,
+            "White": 65.7
+          },
+          "math_prof": {
+            "Black": 39.5,
+            "Economically Disadvantaged": 29.3,
+            "Non-Economically Disadvantaged": 59.8,
+            "Students with Disabilities": 16.1,
+            "Students without Disabilities (general ed)": 65.7,
+            "English Learners": 29.4,
+            "Female": 51.2,
+            "Hispanic": 36.1,
+            "Male": 43.2,
+            "Schoolwide": 46.4,
+            "Non-English Learners (general ed)": 47.9,
+            "White": 68.6
+          },
+          "chronic_absent": {
+            "Schoolwide": 6.6,
+            "White": 7.1,
+            "Hispanic": 10.3,
+            "Black": 3.5,
+            "Asian/Pacific Islander (combined)": 8.3,
+            "Two or More Races": 3.2,
+            "Economically Disadvantaged": 8.8,
+            "Students with Disabilities": 12.4,
+            "English Learners": 7.7
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 40.5,
+          "disability_pct": 34.7,
+          "ell_pct": 5.8,
+          "white_pct": 15.4,
+          "hispanic_pct": 34.9,
+          "black_pct": 37.4,
+          "asian_pct": 4.7,
+          "pacific_islander_pct": 0.7,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.9,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 11.3
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 49.4,
+            "Economically Disadvantaged": 48.1,
+            "English Learners": 47.8,
+            "Female": 68.8,
+            "Hispanic": 59.0,
+            "Male": 52.8,
+            "Non-Economically Disadvantaged": 68.6,
+            "Non-English Learners (general ed)": 61.9,
+            "Schoolwide": 60.3,
+            "Students with Disabilities": 22.0,
+            "Students without Disabilities (general ed)": 73.2,
+            "White": 78.8
+          },
+          "math_prof": {
+            "Black": 35.3,
+            "Economically Disadvantaged": 28.0,
+            "English Learners": 37.5,
+            "Female": 57.4,
+            "Hispanic": 48.4,
+            "Male": 44.3,
+            "Non-Economically Disadvantaged": 66.1,
+            "Non-English Learners (general ed)": 52.3,
+            "Schoolwide": 50.5,
+            "Students with Disabilities": 10.0,
+            "Students without Disabilities (general ed)": 64.0,
+            "White": 81.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 5.3,
+            "White": 3.1,
+            "Hispanic": 7.0,
+            "Black": 5.6,
+            "Two or More Races": 0.0,
+            "Female": 4.4,
+            "Male": 6.1,
+            "Economically Disadvantaged": 7.9,
+            "Students with Disabilities": 18.3,
+            "English Learners": 7.1
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 40.3,
+          "disability_pct": 34.0,
+          "ell_pct": 7.9,
+          "white_pct": 16.1,
+          "hispanic_pct": 35.3,
+          "black_pct": 36.4,
+          "asian_pct": 4.5,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 6.9,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 11.6
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {},
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 40.2,
+          "disability_pct": 35.1,
+          "ell_pct": 5.4,
+          "white_pct": 12.5,
+          "hispanic_pct": 37.6,
+          "black_pct": 38.5,
+          "asian_pct": 4.1,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 6.7,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 11.7
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 9.0,
+            "White": 1.8,
+            "Hispanic": 14.9,
+            "Black": 6.4,
+            "Asian/Pacific Islander (combined)": 4.3,
+            "Two or More Races": 6.7,
+            "Female": 7.3,
+            "Male": 10.4,
+            "Economically Disadvantaged": 15.8,
+            "Students with Disabilities": 16.3,
+            "English Learners": 25.8
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 39.8,
+          "disability_pct": 35.8,
+          "ell_pct": 7.2,
+          "white_pct": 12.2,
+          "hispanic_pct": 38.3,
+          "black_pct": 38.1,
+          "asian_pct": 4.4,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 6.3,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 12.5
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 41.3,
+            "White": 64.5,
+            "Hispanic": 35.5,
+            "Black": 41.1,
+            "Asian/Pacific Islander (combined)": 30.0,
+            "Two or More Races": 46.7,
+            "Female": 51.2,
+            "Male": 32.4,
+            "Economically Disadvantaged": 27.5,
+            "Non-Economically Disadvantaged": 50.3,
+            "Students without Disabilities (general ed)": 63.9,
+            "English Learners": 19.2,
+            "Non-English Learners (general ed)": 43.8
+          },
+          "math_prof": {
+            "Schoolwide": 33.6,
+            "White": 58.1,
+            "Hispanic": 26.2,
+            "Black": 34.7,
+            "Asian/Pacific Islander (combined)": 30.0,
+            "Two or More Races": 33.3,
+            "Female": 36.6,
+            "Male": 30.9,
+            "Economically Disadvantaged": 23.5,
+            "Non-Economically Disadvantaged": 40.1,
+            "Students without Disabilities (general ed)": 51.6,
+            "English Learners": 15.4,
+            "Non-English Learners (general ed)": 35.6
+          },
+          "chronic_absent": {
+            "Schoolwide": 19.5,
+            "White": 15.2,
+            "Hispanic": 23.2,
+            "Black": 17.9,
+            "Asian/Pacific Islander (combined)": 25.0,
+            "Two or More Races": 10.5,
+            "Female": 16.5,
+            "Male": 22.1,
+            "Economically Disadvantaged": 29.5,
+            "Students with Disabilities": 27.3,
+            "English Learners": 28.6
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 41.2,
+          "disability_pct": 38.0,
+          "ell_pct": 9.1,
+          "white_pct": 10.0,
+          "hispanic_pct": 42.0,
+          "black_pct": 36.2,
+          "asian_pct": 3.1,
+          "pacific_islander_pct": 0.4,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 8.1,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 12.8
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 50.8,
+            "White": 57.1,
+            "Hispanic": 42.3,
+            "Black": 50.0,
+            "Two or More Races": 84.6,
+            "Female": 60.0,
+            "Male": 42.1,
+            "Economically Disadvantaged": 37.1,
+            "Non-Economically Disadvantaged": 57.7,
+            "Students with Disabilities": 13.0,
+            "Students without Disabilities (general ed)": 66.4,
+            "English Learners": 19.0,
+            "Non-English Learners (general ed)": 54.9
+          },
+          "math_prof": {
+            "Schoolwide": 42.0,
+            "White": 42.9,
+            "Hispanic": 39.7,
+            "Black": 39.7,
+            "Two or More Races": 53.8,
+            "Female": 41.8,
+            "Male": 42.3,
+            "Economically Disadvantaged": 29.2,
+            "Non-Economically Disadvantaged": 48.8,
+            "Students with Disabilities": 11.1,
+            "Students without Disabilities (general ed)": 54.5,
+            "English Learners": 17.4,
+            "Non-English Learners (general ed)": 45.5
+          },
+          "chronic_absent": {
+            "Schoolwide": 18.8,
+            "White": 15.2,
+            "Hispanic": 27.1,
+            "Black": 9.7,
+            "Asian/Pacific Islander (combined)": 23.5,
+            "Two or More Races": 12.1,
+            "Female": 15.4,
+            "Male": 21.6,
+            "Economically Disadvantaged": 23.2,
+            "Students with Disabilities": 25.7,
+            "English Learners": 21.2
+          },
+          "oss_pct": {
+            "Schoolwide": 2.1
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 43.9,
+          "disability_pct": 41.8,
+          "ell_pct": 11.9,
+          "white_pct": 9.8,
+          "hispanic_pct": 44.8,
+          "black_pct": 34.6,
+          "asian_pct": 3.0,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.6,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 12.9
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 55.4,
+            "White": 60.0,
+            "Hispanic": 44.3,
+            "Black": 60.6,
+            "Two or More Races": 76.5,
+            "Female": 68.9,
+            "Male": 42.7,
+            "Economically Disadvantaged": 53.2,
+            "Non-Economically Disadvantaged": 56.5,
+            "Students with Disabilities": 26.0,
+            "Students without Disabilities (general ed)": 66.2,
+            "English Learners": 33.3,
+            "Non-English Learners (general ed)": 58.6
+          },
+          "math_prof": {
+            "Schoolwide": 47.9,
+            "White": 55.0,
+            "Hispanic": 37.0,
+            "Black": 53.0,
+            "Two or More Races": 64.7,
+            "Female": 50.0,
+            "Male": 45.8,
+            "Economically Disadvantaged": 32.8,
+            "Non-Economically Disadvantaged": 55.6,
+            "Students with Disabilities": 28.0,
+            "Students without Disabilities (general ed)": 55.1,
+            "English Learners": 19.2,
+            "Non-English Learners (general ed)": 52.5
+          },
+          "chronic_absent": {
+            "Schoolwide": 13.2,
+            "White": 22.5,
+            "Hispanic": 19.9,
+            "Black": 5.4,
+            "Asian/Pacific Islander (combined)": 11.8,
+            "Two or More Races": 4.7,
+            "Female": 8.8,
+            "Male": 17.0,
+            "Economically Disadvantaged": 20.7,
+            "Students with Disabilities": 22.1,
+            "English Learners": 19.0
+          },
+          "oss_pct": {
+            "Asian": 0.0,
+            "Black": 3.93,
+            "Economically Disadvantaged": 4.9,
+            "Female": 0.45,
+            "Hispanic": 3.54,
+            "Male": 5.17,
+            "Schoolwide": 3.31,
+            "Students with Disabilities": 4.72,
+            "Two or More Races": 0.0,
+            "White": 2.17
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 41.7,
+          "disability_pct": 40.2,
+          "ell_pct": 12.3,
+          "white_pct": 9.2,
+          "hispanic_pct": 43.8,
+          "black_pct": 34.2,
+          "asian_pct": 3.1,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 9.6,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 12.3
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 48.6,
+            "Black": 46.9,
+            "Economically Disadvantaged": 38.7,
+            "Female": 57.3,
+            "Hispanic": 44.3,
+            "Male": 41.7,
+            "English Learners": 25.9,
+            "Non-Economically Disadvantaged": 55.5,
+            "Non-English Learners (general ed)": 52.5,
+            "Students with Disabilities": 15.1,
+            "Students without Disabilities (general ed)": 62.1,
+            "Two or More Races": 58.3,
+            "White": 66.7
+          },
+          "math_prof": {
+            "Schoolwide": 49.7,
+            "Black": 43.8,
+            "Economically Disadvantaged": 42.7,
+            "Female": 54.9,
+            "Hispanic": 44.3,
+            "Male": 45.6,
+            "English Learners": 33.3,
+            "Non-Economically Disadvantaged": 54.5,
+            "Non-English Learners (general ed)": 52.5,
+            "Students with Disabilities": 18.9,
+            "Students without Disabilities (general ed)": 62.1,
+            "Two or More Races": 66.7,
+            "White": 61.1
+          },
+          "chronic_absent": {
+            "Schoolwide": 14.1,
+            "Asian/Pacific Islander (combined)": 16.7,
+            "Black": 7.4,
+            "Economically Disadvantaged": 17.9,
+            "Female": 12.1,
+            "Hispanic": 21.3,
+            "Male": 15.8,
+            "English Learners": 20.0,
+            "Students with Disabilities": 20.8,
+            "Two or More Races": 11.1,
+            "White": 13.5
+          },
+          "oss_pct": {
+            "Schoolwide": 2.65,
+            "Black": 4.14,
+            "Economically Disadvantaged": 2.55,
+            "Female": 0.9,
+            "Hispanic": 2.39,
+            "Male": 4.1,
+            "Students with Disabilities": 3.06,
+            "Two or More Races": 0.0,
+            "White": 2.17
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 45.0,
+          "disability_pct": 38.5,
+          "ell_pct": 10.2,
+          "white_pct": 10.0,
+          "hispanic_pct": 41.4,
+          "black_pct": 34.2,
+          "asian_pct": 3.6,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 10.6,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 14.1
+        }
+      }
+    },
+    "160": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 68.0,
+            "White": 78.0,
+            "Black": 59.0,
+            "Hispanic": 61.0,
+            "Students with Disabilities": 35.0,
+            "Economically Disadvantaged": 57.0
+          },
+          "math_prof": {
+            "Schoolwide": 72.0,
+            "White": 80.0,
+            "Black": 59.0,
+            "Hispanic": 70.0,
+            "Students with Disabilities": 37.0,
+            "Economically Disadvantaged": 59.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 2.9
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 21.0,
+          "econ_disadvantaged_pct": 30.0,
+          "ell_pct": 2.0,
+          "white_pct": 30.2,
+          "hispanic_pct": 23.4,
+          "black_pct": 33.6,
+          "asian_pct": 7.0,
+          "pacific_islander_pct": 0.5,
+          "two_or_more_pct": 5.2
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 84.6,
+            "Black": 64.0,
+            "Economically Disadvantaged": 57.2,
+            "English Learners": 57.1,
+            "Female": 74.6,
+            "Hispanic": 66.7,
+            "Male": 69.3,
+            "Non-Economically Disadvantaged": 78.0,
+            "Non-English Learners (general ed)": 72.3,
+            "Schoolwide": 71.6,
+            "Students with Disabilities": 45.8,
+            "Students without Disabilities (general ed)": 79.9,
+            "Two or More Races": 66.6,
+            "White": 81.9
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 84.6,
+            "Black": 47.4,
+            "Economically Disadvantaged": 46.2,
+            "English Learners": 64.3,
+            "Female": 63.9,
+            "Hispanic": 62.3,
+            "Male": 67.7,
+            "Non-Economically Disadvantaged": 74.9,
+            "Non-English Learners (general ed)": 66.1,
+            "Schoolwide": 66.0,
+            "Students with Disabilities": 43.7,
+            "Students without Disabilities (general ed)": 73.1,
+            "Two or More Races": 71.4,
+            "White": 83.9
+          },
+          "oss_pct": {
+            "Schoolwide": 1.6
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 22.8,
+          "econ_disadvantaged_pct": 31.7,
+          "ell_pct": 2.1,
+          "native_american_pct": 0.3,
+          "asian_pct": 7.1,
+          "black_pct": 32.5,
+          "hispanic_pct": 24.7,
+          "pacific_islander_pct": 0.7,
+          "two_or_more_pct": 6.1,
+          "white_pct": 28.5,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 11.5
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 83.4,
+            "Black": 64.3,
+            "Economically Disadvantaged": 59.5,
+            "Non-Economically Disadvantaged": 76.5,
+            "Students without Disabilities (general ed)": 76.7,
+            "Students with Disabilities": 49.2,
+            "Two or More Races": 68.4,
+            "English Learners": 56.3,
+            "Female": 81.1,
+            "Hispanic": 65.6,
+            "Male": 63.6,
+            "Schoolwide": 71.2,
+            "Non-English Learners (general ed)": 72.1,
+            "White": 81.3
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 80.0,
+            "Black": 50.9,
+            "Economically Disadvantaged": 47.3,
+            "Non-Economically Disadvantaged": 69.5,
+            "Students without Disabilities (general ed)": 68.4,
+            "Students with Disabilities": 38.6,
+            "Two or More Races": 57.9,
+            "Female": 63.2,
+            "English Learners": 61.2,
+            "Hispanic": 58.5,
+            "Male": 62.0,
+            "Non-English Learners (general ed)": 62.7,
+            "Schoolwide": 62.5,
+            "White": 76.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 3.9,
+            "White": 3.4,
+            "Hispanic": 6.3,
+            "Black": 2.7,
+            "Asian/Pacific Islander (combined)": 2.0,
+            "Two or More Races": 5.7,
+            "Economically Disadvantaged": 7.2,
+            "Students with Disabilities": 5.6,
+            "English Learners": 25.0
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 28.2,
+          "disability_pct": 18.5,
+          "ell_pct": 3.7,
+          "white_pct": 27.9,
+          "hispanic_pct": 23.9,
+          "black_pct": 32.7,
+          "asian_pct": 8.4,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.5,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 12.1
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "White": 84.5,
+            "Two or More Races": 65.0,
+            "Students without Disabilities (general ed)": 77.8,
+            "Students with Disabilities": 49.2,
+            "Schoolwide": 71.3,
+            "Non-English Learners (general ed)": 72.0,
+            "Non-Economically Disadvantaged": 76.3,
+            "Male": 66.3,
+            "Hispanic": 68.4,
+            "Female": 78.6,
+            "English Learners": 57.1,
+            "Economically Disadvantaged": 60.7,
+            "Black": 61.7,
+            "Asian/Pacific Islander (combined)": 90.0
+          },
+          "math_prof": {
+            "White": 84.5,
+            "Two or More Races": 75.0,
+            "Students without Disabilities (general ed)": 76.4,
+            "Students with Disabilities": 39.7,
+            "Schoolwide": 68.0,
+            "Non-English Learners (general ed)": 68.2,
+            "Non-Economically Disadvantaged": 73.7,
+            "Male": 64.4,
+            "Hispanic": 59.6,
+            "Female": 73.2,
+            "English Learners": 64.3,
+            "Economically Disadvantaged": 56.2,
+            "Black": 56.1,
+            "Asian/Pacific Islander (combined)": 90.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 4.9,
+            "White": 4.9,
+            "Hispanic": 4.0,
+            "Black": 3.9,
+            "Asian/Pacific Islander (combined)": 17.9,
+            "Two or More Races": 0.0,
+            "Female": 2.7,
+            "Male": 6.6,
+            "Economically Disadvantaged": 6.2,
+            "Students with Disabilities": 8.3,
+            "English Learners": 13.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 29.5,
+          "disability_pct": 18.8,
+          "ell_pct": 3.9,
+          "white_pct": 26.9,
+          "hispanic_pct": 25.2,
+          "black_pct": 33.8,
+          "asian_pct": 6.6,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.0,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 12.8
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {},
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 29.0,
+          "disability_pct": 20.7,
+          "ell_pct": 4.9,
+          "white_pct": 24.1,
+          "hispanic_pct": 26.8,
+          "black_pct": 35.8,
+          "asian_pct": 6.3,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 6.5,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 13.0
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 5.4,
+            "White": 5.0,
+            "Hispanic": 7.1,
+            "Black": 6.0,
+            "Asian/Pacific Islander (combined)": 2.9,
+            "Two or More Races": 0.0,
+            "Female": 3.9,
+            "Male": 6.6,
+            "Economically Disadvantaged": 10.9,
+            "Students with Disabilities": 10.6,
+            "English Learners": 10.0
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 27.5,
+          "disability_pct": 21.9,
+          "ell_pct": 4.5,
+          "white_pct": 21.7,
+          "hispanic_pct": 27.7,
+          "black_pct": 35.5,
+          "asian_pct": 6.5,
+          "pacific_islander_pct": 0.6,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 8.0,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 13.2
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 61.0,
+            "White": 70.5,
+            "Hispanic": 52.2,
+            "Black": 55.1,
+            "Asian/Pacific Islander (combined)": 84.6,
+            "Two or More Races": 73.7,
+            "Female": 66.7,
+            "Male": 56.1,
+            "Economically Disadvantaged": 53.1,
+            "Non-Economically Disadvantaged": 63.8,
+            "Students with Disabilities": 27.6,
+            "Students without Disabilities (general ed)": 71.2,
+            "English Learners": 43.8,
+            "Non-English Learners (general ed)": 62.2
+          },
+          "math_prof": {
+            "Schoolwide": 53.8,
+            "White": 73.8,
+            "Hispanic": 51.5,
+            "Black": 33.3,
+            "Asian/Pacific Islander (combined)": 84.6,
+            "Two or More Races": 73.7,
+            "Female": 53.4,
+            "Male": 54.1,
+            "Economically Disadvantaged": 30.8,
+            "Non-Economically Disadvantaged": 61.8,
+            "Students with Disabilities": 22.4,
+            "Students without Disabilities (general ed)": 63.2,
+            "English Learners": 38.9,
+            "Non-English Learners (general ed)": 54.9
+          },
+          "chronic_absent": {
+            "Schoolwide": 12.6,
+            "White": 12.5,
+            "Hispanic": 14.6,
+            "Black": 13.1,
+            "Asian/Pacific Islander (combined)": 10.0,
+            "Two or More Races": 5.6,
+            "Female": 12.9,
+            "Male": 12.3,
+            "Economically Disadvantaged": 20.7,
+            "Students with Disabilities": 19.8,
+            "English Learners": 9.5
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 24.8,
+          "disability_pct": 22.5,
+          "ell_pct": 5.1,
+          "white_pct": 23.0,
+          "hispanic_pct": 28.1,
+          "black_pct": 34.4,
+          "asian_pct": 6.0,
+          "pacific_islander_pct": 0.7,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 7.8,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 13.1
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 62.6,
+            "White": 63.6,
+            "Hispanic": 66.7,
+            "Black": 48.2,
+            "Asian/Pacific Islander (combined)": 86.7,
+            "Two or More Races": 89.5,
+            "Female": 72.7,
+            "Male": 55.1,
+            "Economically Disadvantaged": 47.7,
+            "Non-Economically Disadvantaged": 68.2,
+            "Students with Disabilities": 20.6,
+            "Students without Disabilities (general ed)": 77.9,
+            "English Learners": 52.6,
+            "Non-English Learners (general ed)": 63.4
+          },
+          "math_prof": {
+            "Schoolwide": 62.7,
+            "White": 75.0,
+            "Hispanic": 58.9,
+            "Black": 50.6,
+            "Asian/Pacific Islander (combined)": 93.3,
+            "Two or More Races": 78.9,
+            "Female": 60.0,
+            "Male": 64.7,
+            "Economically Disadvantaged": 40.9,
+            "Non-Economically Disadvantaged": 71.2,
+            "Students with Disabilities": 25.4,
+            "Students without Disabilities (general ed)": 76.3,
+            "English Learners": 40.0,
+            "Non-English Learners (general ed)": 64.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 13.2,
+            "White": 14.4,
+            "Hispanic": 18.9,
+            "Black": 6.0,
+            "Asian/Pacific Islander (combined)": 13.3,
+            "Two or More Races": 16.2,
+            "Female": 12.7,
+            "Male": 13.5,
+            "Economically Disadvantaged": 14.7,
+            "Students with Disabilities": 15.0,
+            "English Learners": 21.7
+          },
+          "oss_pct": {
+            "Schoolwide": 0.9
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 29.0,
+          "disability_pct": 20.6,
+          "ell_pct": 5.6,
+          "white_pct": 21.3,
+          "hispanic_pct": 30.0,
+          "black_pct": 32.8,
+          "asian_pct": 6.8,
+          "pacific_islander_pct": 0.5,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 8.7,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 12.8
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 66.8,
+            "White": 84.1,
+            "Hispanic": 65.1,
+            "Black": 54.1,
+            "Asian/Pacific Islander (combined)": 87.5,
+            "Two or More Races": 65.0,
+            "Female": 73.5,
+            "Male": 61.3,
+            "Economically Disadvantaged": 44.1,
+            "Non-Economically Disadvantaged": 75.3,
+            "Students with Disabilities": 28.8,
+            "Students without Disabilities (general ed)": 81.0,
+            "English Learners": 60.0,
+            "Non-English Learners (general ed)": 67.5
+          },
+          "math_prof": {
+            "Schoolwide": 60.3,
+            "White": 86.4,
+            "Hispanic": 57.6,
+            "Black": 42.5,
+            "Asian/Pacific Islander (combined)": 75.0,
+            "Two or More Races": 65.0,
+            "Female": 59.0,
+            "Male": 61.3,
+            "Economically Disadvantaged": 30.6,
+            "Non-Economically Disadvantaged": 72.0,
+            "Students with Disabilities": 29.3,
+            "Students without Disabilities (general ed)": 71.4,
+            "English Learners": 47.8,
+            "Non-English Learners (general ed)": 61.7
+          },
+          "chronic_absent": {
+            "Schoolwide": 14.2,
+            "White": 16.8,
+            "Hispanic": 21.4,
+            "Black": 7.6,
+            "Asian/Pacific Islander (combined)": 17.9,
+            "Two or More Races": 2.7,
+            "Female": 8.6,
+            "Male": 18.4,
+            "Economically Disadvantaged": 19.0,
+            "Students with Disabilities": 20.2,
+            "English Learners": 15.8
+          },
+          "oss_pct": {
+            "Asian": 0.0,
+            "Black": 0.69,
+            "Economically Disadvantaged": 1.4,
+            "Female": 0.51,
+            "Hispanic": 1.49,
+            "Male": 1.61,
+            "Schoolwide": 1.12,
+            "Students with Disabilities": 1.82,
+            "Two or More Races": 2.7,
+            "White": 0.97
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 28.8,
+          "disability_pct": 24.0,
+          "ell_pct": 4.4,
+          "white_pct": 23.3,
+          "hispanic_pct": 30.0,
+          "black_pct": 31.6,
+          "asian_pct": 6.2,
+          "pacific_islander_pct": 0.5,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 8.5,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 13.8
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 67.0,
+            "Asian/Pacific Islander (combined)": 91.7,
+            "Black": 60.3,
+            "Economically Disadvantaged": 50.8,
+            "Female": 78.8,
+            "Hispanic": 65.0,
+            "Male": 58.0,
+            "English Learners": 80.0,
+            "Non-Economically Disadvantaged": 74.3,
+            "Non-English Learners (general ed)": 65.9,
+            "Students with Disabilities": 34.1,
+            "Students without Disabilities (general ed)": 76.5,
+            "Two or More Races": 80.0,
+            "White": 71.9
+          },
+          "math_prof": {
+            "Schoolwide": 65.0,
+            "Asian/Pacific Islander (combined)": 91.7,
+            "Black": 59.0,
+            "Economically Disadvantaged": 47.5,
+            "Female": 64.7,
+            "Hispanic": 58.3,
+            "Male": 65.2,
+            "English Learners": 73.3,
+            "Non-Economically Disadvantaged": 72.8,
+            "Non-English Learners (general ed)": 64.3,
+            "Students with Disabilities": 31.8,
+            "Students without Disabilities (general ed)": 74.5,
+            "Two or More Races": 66.7,
+            "White": 81.3
+          },
+          "chronic_absent": {
+            "Schoolwide": 9.5,
+            "Asian/Pacific Islander (combined)": 8.3,
+            "Black": 4.9,
+            "Economically Disadvantaged": 12.7,
+            "Female": 8.3,
+            "Hispanic": 15.9,
+            "Male": 10.4,
+            "English Learners": 16.7,
+            "Students with Disabilities": 16.0,
+            "Two or More Races": 8.3,
+            "White": 8.5
+          },
+          "oss_pct": {
+            "Schoolwide": 0.43
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 35.5,
+          "disability_pct": 24.7,
+          "ell_pct": 2.9,
+          "white_pct": 21.7,
+          "hispanic_pct": 30.1,
+          "black_pct": 34.2,
+          "asian_pct": 5.9,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 8.1,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 14.9
+        }
+      }
+    },
+    "170": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 79.0,
+            "White": 90.0,
+            "Black": 62.0
+          },
+          "math_prof": {
+            "Schoolwide": 77.0,
+            "White": 90.0,
+            "Black": 59.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 6.4
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 12.0,
+          "econ_disadvantaged_pct": 16.0,
+          "ell_pct": 4.0,
+          "white_pct": 36.6,
+          "hispanic_pct": 15.1,
+          "black_pct": 29.7,
+          "asian_pct": 9.0,
+          "pacific_islander_pct": 0.3,
+          "two_or_more_pct": 9.3
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 79.3,
+            "Economically Disadvantaged": 58.3,
+            "Female": 88.6,
+            "Hispanic": 68.4,
+            "Male": 81.0,
+            "Non-Economically Disadvantaged": 89.2,
+            "Schoolwide": 84.7,
+            "Students with Disabilities": 71.4,
+            "Students without Disabilities (general ed)": 86.6,
+            "Two or More Races": 88.3,
+            "White": 91.8
+          },
+          "math_prof": {
+            "Black": 58.6,
+            "Economically Disadvantaged": 54.2,
+            "Female": 74.7,
+            "Hispanic": 73.7,
+            "Male": 73.8,
+            "Non-Economically Disadvantaged": 77.7,
+            "Schoolwide": 74.2,
+            "Students with Disabilities": 61.9,
+            "Students without Disabilities (general ed)": 76.0,
+            "Two or More Races": 70.5,
+            "White": 88.5
+          },
+          "oss_pct": {
+            "Schoolwide": 1.6
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 13.8,
+          "econ_disadvantaged_pct": 15.1,
+          "ell_pct": 1.6,
+          "asian_pct": 7.0,
+          "black_pct": 31.1,
+          "hispanic_pct": 15.7,
+          "two_or_more_pct": 10.3,
+          "white_pct": 35.9,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 15.9
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 91.7,
+            "Black": 72.2,
+            "Economically Disadvantaged": 51.6,
+            "Non-Economically Disadvantaged": 85.9,
+            "Students with Disabilities": 46.9,
+            "Students without Disabilities (general ed)": 87.1,
+            "Two or More Races": 95.0,
+            "Female": 85.5,
+            "Hispanic": 62.8,
+            "Male": 74.4,
+            "Schoolwide": 80.0,
+            "White": 89.9
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 75.0,
+            "Black": 63.7,
+            "Economically Disadvantaged": 53.4,
+            "Non-Economically Disadvantaged": 80.0,
+            "Students with Disabilities": 48.4,
+            "Students without Disabilities (general ed)": 81.2,
+            "Two or More Races": 90.0,
+            "Female": 76.4,
+            "Hispanic": 64.7,
+            "Male": 74.7,
+            "Schoolwide": 75.6,
+            "White": 88.1
+          },
+          "chronic_absent": {
+            "Schoolwide": 4.7,
+            "White": 4.1,
+            "Hispanic": 9.9,
+            "Black": 3.3,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 4.8,
+            "Economically Disadvantaged": 6.9,
+            "Students with Disabilities": 4.9
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 15.5,
+          "disability_pct": 14.1,
+          "ell_pct": 1.9,
+          "white_pct": 32.3,
+          "hispanic_pct": 18.4,
+          "black_pct": 32.3,
+          "asian_pct": 6.1,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 10.9,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 15.6
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Asian/Pacific Islander (combined)": 93.3,
+            "Black": 62.0,
+            "Economically Disadvantaged": 56.3,
+            "Female": 76.2,
+            "Hispanic": 58.3,
+            "Male": 67.7,
+            "Non-Economically Disadvantaged": 75.0,
+            "Schoolwide": 71.7,
+            "Students with Disabilities": 43.9,
+            "Students without Disabilities (general ed)": 79.9,
+            "Two or More Races": 76.2,
+            "White": 81.0
+          },
+          "math_prof": {
+            "Asian/Pacific Islander (combined)": 93.3,
+            "Black": 62.7,
+            "Economically Disadvantaged": 50.0,
+            "Female": 81.0,
+            "Hispanic": 61.1,
+            "Male": 71.1,
+            "Non-Economically Disadvantaged": 81.2,
+            "Schoolwide": 75.7,
+            "Students with Disabilities": 48.8,
+            "Students without Disabilities (general ed)": 83.6,
+            "Two or More Races": 81.0,
+            "White": 89.7
+          },
+          "chronic_absent": {
+            "Schoolwide": 5.1,
+            "White": 6.3,
+            "Hispanic": 7.5,
+            "Black": 2.5,
+            "Asian/Pacific Islander (combined)": 2.8,
+            "Two or More Races": 6.7,
+            "Female": 2.5,
+            "Male": 7.6,
+            "Economically Disadvantaged": 4.9,
+            "Students with Disabilities": 16.9
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 15.1,
+          "disability_pct": 12.2,
+          "ell_pct": 1.6,
+          "white_pct": 31.0,
+          "hispanic_pct": 19.1,
+          "black_pct": 30.0,
+          "asian_pct": 9.0,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 10.9,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 15.3
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 12.6,
+          "disability_pct": 12.4,
+          "ell_pct": 0.5,
+          "white_pct": 29.0,
+          "hispanic_pct": 17.2,
+          "black_pct": 31.3,
+          "asian_pct": 8.1,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 14.1,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 16.4
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 1.8,
+            "White": 1.7,
+            "Hispanic": 1.6,
+            "Black": 3.1,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 0.0,
+            "Female": 0.0,
+            "Male": 3.5,
+            "Economically Disadvantaged": 8.5,
+            "Students with Disabilities": 3.3
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 12.1,
+          "disability_pct": 14.4,
+          "ell_pct": 1.3,
+          "white_pct": 29.1,
+          "hispanic_pct": 15.5,
+          "black_pct": 32.7,
+          "asian_pct": 8.8,
+          "pacific_islander_pct": 0.8,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 13.1,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 17.4
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 69.7,
+            "White": 79.2,
+            "Hispanic": 63.3,
+            "Black": 58.7,
+            "Asian/Pacific Islander (combined)": 100.0,
+            "Two or More Races": 68.4,
+            "Female": 69.4,
+            "Male": 69.9,
+            "Economically Disadvantaged": 50.0,
+            "Non-Economically Disadvantaged": 72.2,
+            "Students with Disabilities": 32.3,
+            "Students without Disabilities (general ed)": 77.6,
+            "Non-English Learners (general ed)": 70.1
+          },
+          "math_prof": {
+            "Schoolwide": 68.2,
+            "White": 75.5,
+            "Hispanic": 67.7,
+            "Black": 54.7,
+            "Asian/Pacific Islander (combined)": 100.0,
+            "Two or More Races": 72.2,
+            "Female": 64.0,
+            "Male": 72.0,
+            "Economically Disadvantaged": 38.1,
+            "Non-Economically Disadvantaged": 72.2,
+            "Students with Disabilities": 31.3,
+            "Students without Disabilities (general ed)": 76.2,
+            "Non-English Learners (general ed)": 69.5
+          },
+          "chronic_absent": {
+            "Schoolwide": 9.2,
+            "White": 7.7,
+            "Hispanic": 13.7,
+            "Black": 9.0,
+            "Asian/Pacific Islander (combined)": 14.7,
+            "Two or More Races": 3.8,
+            "Female": 10.2,
+            "Male": 8.4,
+            "Economically Disadvantaged": 15.0,
+            "Students with Disabilities": 19.4,
+            "English Learners": 7.7
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 9.6,
+          "disability_pct": 14.4,
+          "ell_pct": 3.3,
+          "white_pct": 28.2,
+          "hispanic_pct": 16.9,
+          "black_pct": 33.2,
+          "asian_pct": 8.1,
+          "pacific_islander_pct": 0.3,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 13.4,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 17.4
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 71.1,
+            "White": 75.0,
+            "Hispanic": 61.3,
+            "Black": 62.3,
+            "Asian/Pacific Islander (combined)": 84.2,
+            "Two or More Races": 84.8,
+            "Female": 71.3,
+            "Male": 70.9,
+            "Economically Disadvantaged": 47.4,
+            "Non-Economically Disadvantaged": 73.5,
+            "Students with Disabilities": 34.2,
+            "Students without Disabilities (general ed)": 79.5,
+            "Non-English Learners (general ed)": 71.8
+          },
+          "math_prof": {
+            "Schoolwide": 59.0,
+            "White": 66.7,
+            "Hispanic": 54.8,
+            "Black": 44.1,
+            "Asian/Pacific Islander (combined)": 89.5,
+            "Two or More Races": 63.6,
+            "Female": 52.1,
+            "Male": 65.1,
+            "Economically Disadvantaged": 36.8,
+            "Non-Economically Disadvantaged": 61.3,
+            "Students with Disabilities": 24.3,
+            "Students without Disabilities (general ed)": 66.7,
+            "Non-English Learners (general ed)": 59.2
+          },
+          "chronic_absent": {
+            "Schoolwide": 12.7,
+            "White": 11.6,
+            "Hispanic": 14.9,
+            "Black": 9.9,
+            "Asian/Pacific Islander (combined)": 28.9,
+            "Two or More Races": 9.2,
+            "Female": 13.7,
+            "Male": 11.9,
+            "Economically Disadvantaged": 22.6,
+            "Students with Disabilities": 23.8,
+            "English Learners": 16.7
+          },
+          "oss_pct": {
+            "Schoolwide": 0.9
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 11.6,
+          "disability_pct": 12.6,
+          "ell_pct": 4.0,
+          "white_pct": 27.2,
+          "hispanic_pct": 16.7,
+          "black_pct": 32.3,
+          "asian_pct": 8.6,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 14.9,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 14.9
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 75.0,
+            "White": 77.6,
+            "Hispanic": 61.8,
+            "Black": 68.3,
+            "Asian/Pacific Islander (combined)": 94.1,
+            "Two or More Races": 85.7,
+            "Female": 80.0,
+            "Male": 71.1,
+            "Economically Disadvantaged": 56.0,
+            "Non-Economically Disadvantaged": 77.7,
+            "Students with Disabilities": 36.4,
+            "Students without Disabilities (general ed)": 82.5,
+            "Non-English Learners (general ed)": 76.5
+          },
+          "math_prof": {
+            "Schoolwide": 70.2,
+            "White": 80.7,
+            "Hispanic": 58.8,
+            "Black": 56.5,
+            "Asian/Pacific Islander (combined)": 82.4,
+            "Two or More Races": 82.9,
+            "Female": 65.6,
+            "Male": 73.9,
+            "Economically Disadvantaged": 44.0,
+            "Non-Economically Disadvantaged": 73.9,
+            "Students with Disabilities": 33.3,
+            "Students without Disabilities (general ed)": 77.3,
+            "Non-English Learners (general ed)": 71.9
+          },
+          "chronic_absent": {
+            "Schoolwide": 11.2,
+            "White": 8.3,
+            "Hispanic": 12.3,
+            "Black": 10.7,
+            "Asian/Pacific Islander (combined)": 15.6,
+            "Two or More Races": 14.3,
+            "Female": 10.2,
+            "Male": 12.0,
+            "Economically Disadvantaged": 16.0,
+            "Students with Disabilities": 18.8,
+            "English Learners": 13.3
+          },
+          "oss_pct": {
+            "Schoolwide": 0.23
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 11.1,
+          "disability_pct": 12.7,
+          "ell_pct": 3.5,
+          "white_pct": 30.7,
+          "hispanic_pct": 18.6,
+          "black_pct": 28.5,
+          "asian_pct": 7.3,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 14.6,
+          "student_teacher_ratio": 11.0,
+          "teacher_avg_years_exp": 14.5
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 76.2,
+            "Asian/Pacific Islander (combined)": 100.0,
+            "Black": 69.9,
+            "Economically Disadvantaged": 70.0,
+            "Female": 79.2,
+            "Hispanic": 65.9,
+            "Male": 73.8,
+            "English Learners": 60.0,
+            "Non-Economically Disadvantaged": 77.2,
+            "Non-English Learners (general ed)": 77.0,
+            "Students with Disabilities": 23.7,
+            "Students without Disabilities (general ed)": 87.0,
+            "Two or More Races": 90.9,
+            "White": 78.0
+          },
+          "math_prof": {
+            "Schoolwide": 66.1,
+            "Asian/Pacific Islander (combined)": 93.8,
+            "Black": 56.6,
+            "Economically Disadvantaged": 40.0,
+            "Female": 64.7,
+            "Hispanic": 57.1,
+            "Male": 67.2,
+            "English Learners": 40.0,
+            "Non-Economically Disadvantaged": 70.1,
+            "Non-English Learners (general ed)": 67.3,
+            "Students with Disabilities": 15.4,
+            "Students without Disabilities (general ed)": 76.8,
+            "Two or More Races": 75.8,
+            "White": 74.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 11.8,
+            "Asian/Pacific Islander (combined)": 14.3,
+            "Black": 9.9,
+            "Economically Disadvantaged": 23.3,
+            "Female": 9.5,
+            "Hispanic": 17.4,
+            "Male": 13.7,
+            "English Learners": 0.0,
+            "Students with Disabilities": 15.7,
+            "Two or More Races": 8.8,
+            "White": 10.7
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0,
+            "Black": 0.0,
+            "Economically Disadvantaged": 0.0,
+            "Female": 0.0,
+            "Hispanic": 0.0,
+            "Male": 0.0,
+            "Students with Disabilities": 0.0,
+            "Two or More Races": 0.0,
+            "White": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 14.7,
+          "disability_pct": 14.7,
+          "ell_pct": 3.0,
+          "white_pct": 26.4,
+          "hispanic_pct": 20.5,
+          "black_pct": 32.0,
+          "asian_pct": 8.0,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 12.9,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 14.5
+        }
+      }
+    },
+    "180": {
+      "2015_16": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 39.0,
+            "Black": 37.0,
+            "Hispanic": 41.0,
+            "Economically Disadvantaged": 37.0
+          },
+          "math_prof": {
+            "Schoolwide": 53.0,
+            "Black": 44.0,
+            "Hispanic": 60.0,
+            "Economically Disadvantaged": 52.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 8.6
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 10.0,
+          "econ_disadvantaged_pct": 87.0,
+          "ell_pct": 9.0,
+          "white_pct": 2.5,
+          "hispanic_pct": 51.6,
+          "black_pct": 41.0,
+          "asian_pct": 1.6,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 2.8
+        }
+      },
+      "2016_17": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 53.0,
+            "Economically Disadvantaged": 47.2,
+            "English Learners": 27.0,
+            "Female": 53.2,
+            "Hispanic": 40.9,
+            "Male": 39.3,
+            "Non-Economically Disadvantaged": 41.4,
+            "Non-English Learners (general ed)": 50.0,
+            "Schoolwide": 46.2,
+            "Students with Disabilities": 34.5,
+            "Students without Disabilities (general ed)": 47.9
+          },
+          "math_prof": {
+            "Black": 36.1,
+            "Economically Disadvantaged": 36.1,
+            "English Learners": 30.8,
+            "Female": 35.4,
+            "Hispanic": 32.5,
+            "Male": 34.5,
+            "Non-Economically Disadvantaged": 30.3,
+            "Non-English Learners (general ed)": 35.9,
+            "Schoolwide": 34.9,
+            "Students with Disabilities": 10.3,
+            "Students without Disabilities (general ed)": 38.7
+          },
+          "oss_pct": {
+            "Schoolwide": 6.4
+          }
+        },
+        "flat_metrics": {
+          "disability_pct": 11.8,
+          "econ_disadvantaged_pct": 82.7,
+          "ell_pct": 7.7,
+          "native_american_pct": 0.2,
+          "asian_pct": 1.6,
+          "black_pct": 38.7,
+          "hispanic_pct": 53.5,
+          "two_or_more_pct": 3.2,
+          "white_pct": 2.7,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 12.9
+        }
+      },
+      "2017_18": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Black": 52.8,
+            "Economically Disadvantaged": 49.5,
+            "Non-Economically Disadvantaged": 60.0,
+            "Students without Disabilities (general ed)": 55.2,
+            "Students with Disabilities": 18.5,
+            "English Learners": 48.7,
+            "Female": 64.9,
+            "Hispanic": 47.8,
+            "Male": 38.2,
+            "Schoolwide": 51.1,
+            "Non-English Learners (general ed)": 51.6
+          },
+          "math_prof": {
+            "Black": 48.3,
+            "Economically Disadvantaged": 49.7,
+            "Non-Economically Disadvantaged": 57.1,
+            "Students without Disabilities (general ed)": 54.5,
+            "Students with Disabilities": 22.2,
+            "Female": 63.1,
+            "English Learners": 35.0,
+            "Hispanic": 49.6,
+            "Male": 39.6,
+            "Non-English Learners (general ed)": 54.1,
+            "Schoolwide": 50.9
+          },
+          "chronic_absent": {
+            "Schoolwide": 7.2,
+            "White": 0.0,
+            "Hispanic": 10.3,
+            "Black": 3.1,
+            "Two or More Races": 7.7,
+            "Economically Disadvantaged": 8.1,
+            "Students with Disabilities": 13.5,
+            "English Learners": 8.3
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 80.7,
+          "disability_pct": 11.3,
+          "ell_pct": 8.4,
+          "white_pct": 2.3,
+          "hispanic_pct": 57.4,
+          "black_pct": 36.1,
+          "asian_pct": 1.1,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 2.9,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 13.5
+        }
+      },
+      "2018_19": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Students without Disabilities (general ed)": 62.0,
+            "Students with Disabilities": 15.9,
+            "Schoolwide": 53.2,
+            "Non-English Learners (general ed)": 56.3,
+            "Non-Economically Disadvantaged": 64.7,
+            "Male": 41.5,
+            "Hispanic": 51.9,
+            "Female": 63.2,
+            "English Learners": 35.3,
+            "Economically Disadvantaged": 51.3,
+            "Black": 56.1
+          },
+          "math_prof": {
+            "Students without Disabilities (general ed)": 50.8,
+            "Students with Disabilities": 18.2,
+            "Schoolwide": 44.6,
+            "Non-English Learners (general ed)": 46.9,
+            "Non-Economically Disadvantaged": 41.2,
+            "Male": 41.0,
+            "Hispanic": 43.3,
+            "Female": 47.7,
+            "English Learners": 32.4,
+            "Economically Disadvantaged": 45.2,
+            "Black": 44.6
+          },
+          "chronic_absent": {
+            "Schoolwide": 9.6,
+            "White": 20.0,
+            "Hispanic": 10.3,
+            "Black": 7.1,
+            "Two or More Races": 15.4,
+            "Female": 8.8,
+            "Male": 10.3,
+            "Economically Disadvantaged": 8.7,
+            "Students with Disabilities": 17.9,
+            "English Learners": 2.6
+          },
+          "oss_pct": {
+            "Schoolwide": 3.3
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 83.4,
+          "disability_pct": 11.6,
+          "ell_pct": 9.0,
+          "white_pct": 1.7,
+          "hispanic_pct": 59.4,
+          "black_pct": 34.0,
+          "asian_pct": 1.9,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.2,
+          "two_or_more_pct": 2.9,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 13.5
+        }
+      },
+      "2019_20": {
+        "subgroup_metrics": {},
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 75.7,
+          "disability_pct": 14.8,
+          "ell_pct": 8.9,
+          "white_pct": 2.3,
+          "hispanic_pct": 59.3,
+          "black_pct": 32.5,
+          "asian_pct": 2.5,
+          "pacific_islander_pct": 0.0,
+          "native_american_pct": 0.5,
+          "two_or_more_pct": 3.0,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 14.4
+        }
+      },
+      "2020_21": {
+        "subgroup_metrics": {
+          "chronic_absent": {
+            "Schoolwide": 11.5,
+            "White": 30.0,
+            "Hispanic": 10.5,
+            "Black": 14.2,
+            "Asian/Pacific Islander (combined)": 0.0,
+            "Two or More Races": 5.6,
+            "Female": 12.2,
+            "Male": 10.9,
+            "Economically Disadvantaged": 13.5,
+            "Students with Disabilities": 20.4,
+            "English Learners": 5.4
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 70.0,
+          "disability_pct": 15.5,
+          "ell_pct": 9.4,
+          "white_pct": 2.5,
+          "hispanic_pct": 60.6,
+          "black_pct": 28.8,
+          "asian_pct": 2.5,
+          "pacific_islander_pct": 0.5,
+          "native_american_pct": 0.3,
+          "two_or_more_pct": 4.8,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 14.3
+        }
+      },
+      "2021_22": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 44.3,
+            "Hispanic": 39.1,
+            "Black": 51.7,
+            "Female": 41.9,
+            "Male": 46.7,
+            "Economically Disadvantaged": 36.5,
+            "Non-Economically Disadvantaged": 57.1,
+            "Students with Disabilities": 18.8,
+            "Students without Disabilities (general ed)": 46.7,
+            "English Learners": 12.0,
+            "Non-English Learners (general ed)": 49.4
+          },
+          "math_prof": {
+            "Schoolwide": 30.9,
+            "Hispanic": 33.6,
+            "Black": 23.0,
+            "Female": 22.1,
+            "Male": 39.8,
+            "Economically Disadvantaged": 28.1,
+            "Non-Economically Disadvantaged": 35.1,
+            "Students without Disabilities (general ed)": 32.9,
+            "English Learners": 17.2,
+            "Non-English Learners (general ed)": 33.3
+          },
+          "chronic_absent": {
+            "Schoolwide": 23.4,
+            "White": 33.3,
+            "Hispanic": 24.8,
+            "Black": 19.1,
+            "Asian/Pacific Islander (combined)": 10.0,
+            "Two or More Races": 35.7,
+            "Female": 24.7,
+            "Male": 22.1,
+            "Economically Disadvantaged": 21.8,
+            "Students with Disabilities": 41.9,
+            "English Learners": 28.0
+          },
+          "oss_pct": {
+            "Schoolwide": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 60.1,
+          "disability_pct": 15.0,
+          "ell_pct": 12.3,
+          "white_pct": 4.1,
+          "hispanic_pct": 61.1,
+          "black_pct": 28.5,
+          "asian_pct": 2.2,
+          "pacific_islander_pct": 0.7,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 3.4,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 14.2
+        }
+      },
+      "2022_23": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 51.2,
+            "Hispanic": 53.4,
+            "Black": 41.5,
+            "Female": 57.3,
+            "Male": 46.7,
+            "Economically Disadvantaged": 49.6,
+            "Non-Economically Disadvantaged": 53.8,
+            "Students with Disabilities": 10.0,
+            "Students without Disabilities (general ed)": 60.8,
+            "English Learners": 28.6,
+            "Non-English Learners (general ed)": 55.7
+          },
+          "math_prof": {
+            "Schoolwide": 41.2,
+            "Hispanic": 42.0,
+            "Black": 35.4,
+            "Female": 40.7,
+            "Male": 41.6,
+            "Economically Disadvantaged": 40.6,
+            "Non-Economically Disadvantaged": 42.3,
+            "Students without Disabilities (general ed)": 49.4,
+            "English Learners": 30.0,
+            "Non-English Learners (general ed)": 43.8
+          },
+          "chronic_absent": {
+            "Schoolwide": 23.9,
+            "White": 36.4,
+            "Hispanic": 25.2,
+            "Black": 18.6,
+            "Two or More Races": 35.3,
+            "Female": 24.8,
+            "Male": 23.0,
+            "Economically Disadvantaged": 20.6,
+            "Students with Disabilities": 23.3,
+            "English Learners": 29.7
+          },
+          "oss_pct": {
+            "Schoolwide": 1.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 70.5,
+          "disability_pct": 23.0,
+          "ell_pct": 12.8,
+          "white_pct": 3.6,
+          "hispanic_pct": 62.3,
+          "black_pct": 28.2,
+          "asian_pct": 2.1,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 3.6,
+          "student_teacher_ratio": 10.0,
+          "teacher_avg_years_exp": 13.2
+        }
+      },
+      "2023_24": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 43.3,
+            "Hispanic": 45.0,
+            "Black": 41.4,
+            "Female": 44.7,
+            "Male": 42.2,
+            "Economically Disadvantaged": 41.7,
+            "Non-Economically Disadvantaged": 47.5,
+            "Students without Disabilities (general ed)": 55.9,
+            "English Learners": 22.2,
+            "Non-English Learners (general ed)": 47.9
+          },
+          "math_prof": {
+            "Schoolwide": 39.5,
+            "Hispanic": 41.8,
+            "Black": 30.0,
+            "Female": 30.9,
+            "Male": 46.9,
+            "Economically Disadvantaged": 35.1,
+            "Non-Economically Disadvantaged": 50.8,
+            "Students without Disabilities (general ed)": 49.1,
+            "English Learners": 23.3,
+            "Non-English Learners (general ed)": 43.7
+          },
+          "chronic_absent": {
+            "Schoolwide": 18.7,
+            "Hispanic": 19.6,
+            "Black": 15.0,
+            "Two or More Races": 25.0,
+            "Female": 16.6,
+            "Male": 20.8,
+            "Economically Disadvantaged": 17.9,
+            "Students with Disabilities": 23.9,
+            "English Learners": 21.6
+          },
+          "oss_pct": {
+            "Black": 2.21,
+            "Economically Disadvantaged": 0.79,
+            "Female": 0.43,
+            "Hispanic": 0.33,
+            "Male": 1.58,
+            "Schoolwide": 1.03,
+            "Students with Disabilities": 1.6,
+            "Two or More Races": 5.56,
+            "White": 0.0
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 73.6,
+          "disability_pct": 25.1,
+          "ell_pct": 17.5,
+          "white_pct": 4.0,
+          "hispanic_pct": 62.1,
+          "black_pct": 28.4,
+          "asian_pct": 1.3,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 4.0,
+          "student_teacher_ratio": 9.0,
+          "teacher_avg_years_exp": 14.1
+        }
+      },
+      "2024_25": {
+        "subgroup_metrics": {
+          "ela_prof": {
+            "Schoolwide": 52.3,
+            "Black": 47.6,
+            "Economically Disadvantaged": 52.5,
+            "Female": 57.1,
+            "Hispanic": 52.2,
+            "Male": 47.7,
+            "English Learners": 44.7,
+            "Non-Economically Disadvantaged": 51.4,
+            "Non-English Learners (general ed)": 54.4,
+            "Students with Disabilities": 17.5,
+            "Students without Disabilities (general ed)": 64.8,
+            "Two or More Races": 70.0
+          },
+          "math_prof": {
+            "Schoolwide": 39.4,
+            "Black": 34.9,
+            "Economically Disadvantaged": 38.1,
+            "Female": 31.4,
+            "Hispanic": 39.7,
+            "Male": 46.8,
+            "English Learners": 34.0,
+            "Non-Economically Disadvantaged": 45.7,
+            "Non-English Learners (general ed)": 40.8,
+            "Students with Disabilities": 12.3,
+            "Students without Disabilities (general ed)": 49.1,
+            "Two or More Races": 40.0
+          },
+          "chronic_absent": {
+            "Schoolwide": 22.4,
+            "Black": 20.2,
+            "Economically Disadvantaged": 21.8,
+            "Female": 21.4,
+            "Hispanic": 23.5,
+            "Male": 23.4,
+            "English Learners": 28.7,
+            "Students with Disabilities": 23.4,
+            "Two or More Races": 28.6
+          },
+          "oss_pct": {
+            "Schoolwide": 0.22
+          }
+        },
+        "flat_metrics": {
+          "econ_disadvantaged_pct": 76.5,
+          "disability_pct": 24.7,
+          "ell_pct": 18.1,
+          "white_pct": 3.2,
+          "hispanic_pct": 61.6,
+          "black_pct": 30.1,
+          "asian_pct": 1.2,
+          "pacific_islander_pct": 0.2,
+          "native_american_pct": 0.0,
+          "two_or_more_pct": 3.7,
+          "student_teacher_ratio": 8.0,
+          "teacher_avg_years_exp": 14.0
+        }
+      }
+    }
+  }
+}

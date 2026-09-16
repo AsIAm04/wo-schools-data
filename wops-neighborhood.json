@@ -1,0 +1,149 @@
+{
+  "160": {
+    "census_acs": {
+      "median_household_income_est": 132019.4,
+      "poverty_rate_pct": 3.4,
+      "bachelors_or_higher_pct": 56.9,
+      "median_home_value_est": 459509.0,
+      "homeownership_pct": 77.3
+    },
+    "air_quality": {
+      "pm25_ugm3": 7.936,
+      "diesel_pm_ugm3": 0.343,
+      "diesel_us_percentile": 87,
+      "traffic_us_percentile": 68
+    },
+    "food_access": {
+      "pct_beyond_1mi_driving_from_food": 27.3
+    },
+    "noise": {
+      "road_aviation_noise_dbaLeq": 42.4
+    }
+  },
+  "140": {
+    "census_acs": {
+      "median_household_income_est": 142276.8,
+      "poverty_rate_pct": 10.9,
+      "bachelors_or_higher_pct": 59.7,
+      "median_home_value_est": 495845.3,
+      "homeownership_pct": 71.0
+    },
+    "air_quality": {
+      "pm25_ugm3": 7.906,
+      "diesel_pm_ugm3": 0.3,
+      "diesel_us_percentile": 81,
+      "traffic_us_percentile": 66
+    },
+    "food_access": {
+      "pct_beyond_1mi_driving_from_food": 67.1
+    },
+    "noise": {
+      "road_aviation_noise_dbaLeq": 39.9
+    }
+  },
+  "150": {
+    "census_acs": {
+      "median_household_income_est": 145399.5,
+      "poverty_rate_pct": 2.7,
+      "bachelors_or_higher_pct": 56.4,
+      "median_home_value_est": 462870.5,
+      "homeownership_pct": 82.2
+    },
+    "air_quality": {
+      "pm25_ugm3": 7.918,
+      "diesel_pm_ugm3": 0.329,
+      "diesel_us_percentile": 86,
+      "traffic_us_percentile": 66
+    },
+    "food_access": {
+      "pct_beyond_1mi_driving_from_food": 31.3
+    },
+    "noise": {
+      "road_aviation_noise_dbaLeq": 42.1
+    }
+  },
+  "130": {
+    "census_acs": {
+      "median_household_income_est": 116471.8,
+      "poverty_rate_pct": 7.8,
+      "bachelors_or_higher_pct": 37.4,
+      "median_home_value_est": 430643.2,
+      "homeownership_pct": 64.5
+    },
+    "air_quality": {
+      "pm25_ugm3": 7.995,
+      "diesel_pm_ugm3": 0.375,
+      "diesel_us_percentile": 90,
+      "traffic_us_percentile": 77
+    },
+    "food_access": {
+      "pct_beyond_1mi_driving_from_food": 0.0
+    },
+    "noise": {
+      "road_aviation_noise_dbaLeq": 45.1
+    }
+  },
+  "120": {
+    "census_acs": {
+      "median_household_income_est": 145901.4,
+      "poverty_rate_pct": 3.5,
+      "bachelors_or_higher_pct": 62.8,
+      "median_home_value_est": 505323.7,
+      "homeownership_pct": 80.7
+    },
+    "air_quality": {
+      "pm25_ugm3": 7.955,
+      "diesel_pm_ugm3": 0.354,
+      "diesel_us_percentile": 88,
+      "traffic_us_percentile": 71
+    },
+    "food_access": {
+      "pct_beyond_1mi_driving_from_food": 20.4
+    },
+    "noise": {
+      "road_aviation_noise_dbaLeq": 39.7
+    }
+  },
+  "170": {
+    "census_acs": {
+      "median_household_income_est": 142926.3,
+      "poverty_rate_pct": 6.1,
+      "bachelors_or_higher_pct": 63.1,
+      "median_home_value_est": 534295.2,
+      "homeownership_pct": 76.8
+    },
+    "air_quality": {
+      "pm25_ugm3": 7.922,
+      "diesel_pm_ugm3": 0.319,
+      "diesel_us_percentile": 84,
+      "traffic_us_percentile": 68
+    },
+    "food_access": {
+      "pct_beyond_1mi_driving_from_food": 45.6
+    },
+    "noise": {
+      "road_aviation_noise_dbaLeq": 39.4
+    }
+  },
+  "180": {
+    "census_acs": {
+      "median_household_income_est": 73241.9,
+      "poverty_rate_pct": 11.3,
+      "bachelors_or_higher_pct": 26.9,
+      "median_home_value_est": 353553.5,
+      "homeownership_pct": 45.9
+    },
+    "air_quality": {
+      "pm25_ugm3": 8.014,
+      "diesel_pm_ugm3": 0.378,
+      "diesel_us_percentile": 90,
+      "traffic_us_percentile": 71
+    },
+    "food_access": {
+      "pct_beyond_1mi_driving_from_food": 0.5
+    },
+    "noise": {
+      "road_aviation_noise_dbaLeq": 43.0
+    }
+  }
+}
