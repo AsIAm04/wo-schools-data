@@ -1,0 +1,434 @@
+{
+  "note": "State-level benchmarks for the same subgroup, matching this tool's existing outcome and driver metrics. ELA, Math, Chronic Absenteeism, and 4-year Graduation Rate only -- NJDOE does not publish a state-level Suspension Rate for comparison. 2019-20 and 2020-21 are genuinely empty: NJSLA testing was cancelled statewide those two years for COVID, matching the gap already in this tool's own school-level data. 2015-16 is reconstructed from NJDOE's official grade-level PARCC state summary reports (spring 2016), weighted by each grade's valid-score count, since that year predates the bulk district/state database format used for every other year; its high-school Math figure is schoolwide-only for the reason noted above.",
+  "sources": {
+    "2016_17_through_2024_25": "NJDOE School Performance Reports, Downloadable District/State Detail databases (nj.gov/education/spr/download)",
+    "2015_16": "NJDOE PARCC Spring 2016 State Summary Reports, by grade (nj.gov/education/assessment/results/reports/1516)"
+  },
+  "years": {
+    "2016_17": {
+      "ela_prof": {
+        "Asian/Pacific Isl.": 80.7,
+        "Black": 35.2,
+        "Schoolwide": 54.9,
+        "Economically Disadvantaged": 36.2,
+        "English Learners": 25.2,
+        "Female": 62.2,
+        "Hispanic": 39.8,
+        "Male": 48.1,
+        "Students with Disabilities": 20.5,
+        "Two or More Races": 54.9,
+        "White": 63.9
+      },
+      "math_prof": {
+        "Asian/Pacific Isl.": 75.6,
+        "Black": 21.7,
+        "Schoolwide": 43.5,
+        "Economically Disadvantaged": 25.1,
+        "English Learners": 23.3,
+        "Female": 44.1,
+        "Hispanic": 27.6,
+        "Male": 42.9,
+        "Students with Disabilities": 16.5,
+        "Two or More Races": 44.9,
+        "White": 52.4
+      },
+      "chronic_absent": {
+        "Asian/Pacific Isl.": 4.5,
+        "Black": 16.2,
+        "Economically Disadvantaged": 15.2,
+        "English Learners": 11.2,
+        "Hispanic": 12.3,
+        "Schoolwide": 10.3,
+        "Students with Disabilities": 16.2
+      },
+      "grad_rate": {
+        "Schoolwide": 90.5,
+        "Black": 83.4,
+        "Economically Disadvantaged": 83.9,
+        "Hispanic": 84.3,
+        "Students with Disabilities": 78.8,
+        "Two or More Races": 91.9,
+        "White": 94.5
+      }
+    },
+    "2017_18": {
+      "ela_prof": {
+        "Asian/Pacific Isl.": 82.3,
+        "Black": 37.3,
+        "Schoolwide": 56.7,
+        "Economically Disadvantaged": 38.5,
+        "English Learners": 27.3,
+        "Female": 64.5,
+        "Hispanic": 42.5,
+        "Male": 49.4,
+        "Students with Disabilities": 21.6,
+        "Two or More Races": 63.4,
+        "White": 65.6
+      },
+      "math_prof": {
+        "Asian/Pacific Isl.": 77.0,
+        "Black": 23.4,
+        "Schoolwide": 45.0,
+        "Economically Disadvantaged": 26.6,
+        "English Learners": 24.6,
+        "Female": 46.0,
+        "Hispanic": 29.2,
+        "Male": 43.9,
+        "Students with Disabilities": 17.1,
+        "Two or More Races": 53.0,
+        "White": 54.1
+      },
+      "chronic_absent": {
+        "Schoolwide": 10.9,
+        "White": 8.6,
+        "Hispanic": 13.4,
+        "Black": 17.2,
+        "Asian/Pacific Isl.": 4.8,
+        "Two or More Races": 9.8,
+        "Economically Disadvantaged": 16.1,
+        "Students with Disabilities": 17.1,
+        "English Learners": 12.3
+      },
+      "grad_rate": {
+        "Schoolwide": 90.9,
+        "White": 95.0,
+        "Hispanic": 84.8,
+        "Black": 84.2,
+        "Asian/Pacific Isl.": 97.0,
+        "Two or More Races": 92.0,
+        "Economically Disadvantaged": 84.6,
+        "Students with Disabilities": 80.1,
+        "English Learners": 75.8
+      }
+    },
+    "2018_19": {
+      "ela_prof": {
+        "Asian/Pacific Isl.": 82.9,
+        "Black": 38.5,
+        "Schoolwide": 57.9,
+        "Economically Disadvantaged": 40.0,
+        "English Learners": 29.3,
+        "Female": 64.8,
+        "Hispanic": 43.9,
+        "Male": 51.3,
+        "Students with Disabilities": 22.7,
+        "Two or More Races": 64.4,
+        "White": 66.9
+      },
+      "math_prof": {
+        "Asian/Pacific Isl.": 76.5,
+        "Black": 23.0,
+        "Schoolwide": 44.5,
+        "Economically Disadvantaged": 26.3,
+        "English Learners": 25.0,
+        "Female": 44.9,
+        "Hispanic": 28.8,
+        "Male": 44.2,
+        "Students with Disabilities": 17.4,
+        "Two or More Races": 53.3,
+        "White": 54.1
+      },
+      "chronic_absent": {
+        "Schoolwide": 10.6,
+        "White": 8.0,
+        "Hispanic": 13.1,
+        "Black": 17.6,
+        "Asian/Pacific Isl.": 4.8,
+        "Two or More Races": 9.7,
+        "Female": 10.4,
+        "Male": 10.7,
+        "Economically Disadvantaged": 16.0,
+        "Students with Disabilities": 16.5,
+        "English Learners": 12.2
+      },
+      "grad_rate": {
+        "Schoolwide": 90.6,
+        "White": 94.9,
+        "Hispanic": 84.5,
+        "Black": 83.3,
+        "Asian/Pacific Isl.": 96.9,
+        "Two or More Races": 91.4,
+        "Female": 92.8,
+        "Male": 88.5,
+        "Economically Disadvantaged": 84.0,
+        "Students with Disabilities": 79.2,
+        "English Learners": 75.4
+      }
+    },
+    "2021_22": {
+      "ela_prof": {
+        "Schoolwide": 49.0,
+        "White": 58.2,
+        "Hispanic": 35.0,
+        "Black": 30.9,
+        "Asian/Pacific Isl.": 78.0,
+        "Two or More Races": 55.4,
+        "Female": 55.1,
+        "Male": 43.2,
+        "Economically Disadvantaged": 30.9,
+        "Students with Disabilities": 17.9,
+        "English Learners": 21.9
+      },
+      "math_prof": {
+        "Schoolwide": 36.0,
+        "White": 46.2,
+        "Hispanic": 19.9,
+        "Black": 15.7,
+        "Asian/Pacific Isl.": 71.3,
+        "Two or More Races": 44.1,
+        "Female": 34.5,
+        "Male": 37.4,
+        "Economically Disadvantaged": 17.3,
+        "Students with Disabilities": 14.7,
+        "English Learners": 16.0
+      },
+      "chronic_absent": {
+        "Schoolwide": 18.1,
+        "White": 12.9,
+        "Hispanic": 23.4,
+        "Black": 28.4,
+        "Asian/Pacific Isl.": 7.8,
+        "Two or More Races": 17.3,
+        "Female": 17.9,
+        "Male": 18.2,
+        "Economically Disadvantaged": 28.0,
+        "Students with Disabilities": 25.1,
+        "English Learners": 22.9
+      },
+      "grad_rate": {
+        "Schoolwide": 90.9,
+        "White": 95.0,
+        "Hispanic": 84.9,
+        "Black": 85.8,
+        "Asian/Pacific Isl.": 97.1,
+        "Two or More Races": 90.6,
+        "Female": 93.3,
+        "Male": 88.6,
+        "Economically Disadvantaged": 85.4,
+        "Students with Disabilities": 80.5,
+        "English Learners": 71.9
+      }
+    },
+    "2022_23": {
+      "ela_prof": {
+        "Schoolwide": 51.3,
+        "White": 60.7,
+        "Hispanic": 37.3,
+        "Black": 34.0,
+        "Asian/Pacific Isl.": 79.8,
+        "Two or More Races": 58.2,
+        "Female": 56.8,
+        "Male": 46.0,
+        "Economically Disadvantaged": 33.4,
+        "Students with Disabilities": 19.2,
+        "English Learners": 23.9
+      },
+      "math_prof": {
+        "Schoolwide": 38.2,
+        "White": 48.7,
+        "Hispanic": 22.2,
+        "Black": 17.9,
+        "Asian/Pacific Isl.": 73.1,
+        "Two or More Races": 46.4,
+        "Female": 36.5,
+        "Male": 39.9,
+        "Economically Disadvantaged": 19.5,
+        "Students with Disabilities": 15.7,
+        "English Learners": 18.1
+      },
+      "chronic_absent": {
+        "Schoolwide": 16.6,
+        "White": 12.9,
+        "Hispanic": 20.4,
+        "Black": 23.6,
+        "Asian/Pacific Isl.": 8.7,
+        "Two or More Races": 16.9,
+        "Female": 16.5,
+        "Male": 16.6,
+        "Economically Disadvantaged": 23.4,
+        "Students with Disabilities": 23.0,
+        "English Learners": 19.0
+      },
+      "grad_rate": {
+        "Schoolwide": 91.1,
+        "White": 95.0,
+        "Hispanic": 85.8,
+        "Black": 86.7,
+        "Asian/Pacific Isl.": 96.7,
+        "Two or More Races": 93.0,
+        "Female": 93.1,
+        "Male": 89.1,
+        "Economically Disadvantaged": 86.6,
+        "Students with Disabilities": 80.5,
+        "English Learners": 73.6
+      }
+    },
+    "2023_24": {
+      "ela_prof": {
+        "Schoolwide": 52.2,
+        "White": 61.8,
+        "Hispanic": 38.0,
+        "Black": 35.9,
+        "Asian/Pacific Isl.": 79.9,
+        "Two or More Races": 59.4,
+        "Female": 57.7,
+        "Male": 47.0,
+        "Economically Disadvantaged": 34.6,
+        "Students with Disabilities": 19.8,
+        "English Learners": 23.1
+      },
+      "math_prof": {
+        "Schoolwide": 40.2,
+        "White": 51.1,
+        "Hispanic": 24.2,
+        "Black": 20.1,
+        "Asian/Pacific Isl.": 74.4,
+        "Two or More Races": 48.9,
+        "Female": 38.4,
+        "Male": 42.0,
+        "Economically Disadvantaged": 21.7,
+        "Students with Disabilities": 16.6,
+        "English Learners": 18.7
+      },
+      "chronic_absent": {
+        "Schoolwide": 14.9,
+        "White": 11.4,
+        "Hispanic": 18.4,
+        "Black": 21.4,
+        "Asian/Pacific Isl.": 7.3,
+        "Two or More Races": 15.0,
+        "Female": 14.9,
+        "Male": 14.9,
+        "Economically Disadvantaged": 21.2,
+        "Students with Disabilities": 21.0,
+        "English Learners": 17.2
+      },
+      "grad_rate": {
+        "Schoolwide": 91.3,
+        "White": 95.0,
+        "Hispanic": 86.9,
+        "Black": 86.5,
+        "Asian/Pacific Isl.": 96.7,
+        "Two or More Races": 92.3,
+        "Female": 93.1,
+        "Male": 89.5,
+        "Economically Disadvantaged": 87.1,
+        "Students with Disabilities": 80.7,
+        "English Learners": 78.9
+      }
+    },
+    "2024_25": {
+      "ela_prof": {
+        "Schoolwide": 53.0,
+        "Asian/Pacific Isl.": 79.7,
+        "Black": 37.5,
+        "Economically Disadvantaged": 36.9,
+        "Female": 58.2,
+        "Hispanic": 38.9,
+        "Male": 48.1,
+        "English Learners": 24.7,
+        "Students with Disabilities": 20.1,
+        "Two or More Races": 60.5,
+        "White": 63.0
+      },
+      "math_prof": {
+        "Schoolwide": 42.0,
+        "Asian/Pacific Isl.": 75.9,
+        "Black": 22.1,
+        "Economically Disadvantaged": 24.2,
+        "Female": 40.3,
+        "Hispanic": 25.9,
+        "Male": 43.6,
+        "English Learners": 21.2,
+        "Students with Disabilities": 17.4,
+        "Two or More Races": 50.8,
+        "White": 53.3
+      },
+      "chronic_absent": {
+        "Schoolwide": 14.4,
+        "Asian/Pacific Isl.": 7.5,
+        "Black": 20.7,
+        "Economically Disadvantaged": 20.2,
+        "Female": 14.4,
+        "Hispanic": 17.6,
+        "Male": 14.4,
+        "English Learners": 16.7,
+        "Students with Disabilities": 20.5,
+        "Two or More Races": 14.8,
+        "White": 11.0
+      },
+      "grad_rate": {
+        "Schoolwide": 91.8,
+        "Asian/Pacific Isl.": 97.2,
+        "Black": 87.4,
+        "Economically Disadvantaged": 88.9,
+        "Female": 93.8,
+        "Hispanic": 87.7,
+        "Male": 90.1,
+        "English Learners": 78.9,
+        "Students with Disabilities": 82.4,
+        "Two or More Races": 93.3,
+        "White": 95.8
+      }
+    },
+    "2019_20": {
+      "ela_prof": {},
+      "math_prof": {},
+      "chronic_absent": {},
+      "grad_rate": {}
+    },
+    "2020_21": {
+      "ela_prof": {},
+      "math_prof": {},
+      "chronic_absent": {},
+      "grad_rate": {}
+    },
+    "2015_16": {
+      "ela_prof_by_band": {
+        "elementary_middle": {
+          "Schoolwide": 53.0,
+          "White": 62.4,
+          "Black": 32.5,
+          "Asian/Pacific Isl.": 79.8,
+          "Hispanic": 37.4,
+          "Female": 60.1,
+          "Male": 46.5,
+          "English Learners": 20.3,
+          "Students with Disabilities": 18.5,
+          "Economically Disadvantaged": 33.5
+        },
+        "high": {
+          "Schoolwide": 44.8,
+          "White": 50.8,
+          "Black": 29.3,
+          "Asian/Pacific Isl.": 69.9,
+          "Hispanic": 34.5,
+          "Female": 53.5,
+          "Male": 37.0,
+          "English Learners": 9.4,
+          "Students with Disabilities": 12.0,
+          "Economically Disadvantaged": 31.2
+        }
+      },
+      "math_prof_by_band": {
+        "elementary_middle": {
+          "Schoolwide": 43.5,
+          "White": 52.8,
+          "Black": 22.3,
+          "Asian/Pacific Isl.": 76.4,
+          "Hispanic": 28.1,
+          "Female": 44.7,
+          "Male": 42.1,
+          "English Learners": 21.7,
+          "Students with Disabilities": 16.7,
+          "Economically Disadvantaged": 25.4
+        },
+        "high": {
+          "Schoolwide": 24.3
+        }
+      },
+      "chronic_absent": {},
+      "grad_rate": {}
+    }
+  }
+}
